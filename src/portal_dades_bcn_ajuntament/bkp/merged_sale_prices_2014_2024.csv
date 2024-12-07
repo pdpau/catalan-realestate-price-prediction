@@ -1,0 +1,925 @@
+Territori,Tipus de territori,year,total_sale_price,price_per_m2
+Barcelona,Municipi,2014,212220.89,2304.15
+Ciutat Vella,Districte,2014,162392.35,2383.56
+el Raval,Barri,2014,111197.24,1807.06
+el Barri Gòtic,Barri,2014,262301.47,2715.61
+la Barceloneta,Barri,2014,135337.22,3130.85
+"Sant Pere,Santa Caterina i la Ribera",Barri,2014,194205.08,2566.07
+Eixample,Districte,2014,266900.00,2682.90
+el Fort Pienc,Barri,2014,195819.97,2426.46
+la Sagrada Família,Barri,2014,171987.19,2242.02
+la Dreta de l'Eixample,Barri,2014,474226.15,3325.70
+l'Antiga Esquerra de l'Eixample,Barri,2014,278709.76,2873.78
+la Nova Esquerra de l'Eixample,Barri,2014,222545.22,2625.19
+Sant Antoni,Barri,2014,211433.29,2404.33
+Sants-Montjuïc,Districte,2014,141623.08,1842.97
+el Poble Sec - AEI Parc de Montjuïc,Barri,2014,113141.61,1753.90
+la Marina del Prat Vermell - AEI Zona Franca,Barri,2014,44791.42,557.33
+la Marina de Port,Barri,2014,110588.95,1518.02
+la Font de la Guatlla,Barri,2014,159439.72,2028.79
+Hostafrancs,Barri,2014,128714.38,1956.09
+la Bordeta,Barri,2014,258485.51,1794.01
+Sants - Badal,Barri,2014,137047.38,1953.81
+Sants,Barri,2014,152621.12,2115.02
+Les Corts,Districte,2014,311094.78,2981.29
+les Corts,Barri,2014,258340.66,2846.48
+la Maternitat i Sant Ramon,Barri,2014,231569.73,2560.53
+Pedralbes,Barri,2014,569224.02,3914.31
+Sarrià-Sant Gervasi,Districte,2014,418503.69,3108.13
+"Vallvidrera,el Tibidabo i les Planes",Barri,2014,333681.61,2160.21
+Sarrià,Barri,2014,387789.13,3450.44
+les Tres Torres,Barri,2014,525276.24,3569.28
+Sant Gervasi - la Bonanova,Barri,2014,431597.58,3126.69
+Sant Gervasi - Galvany,Barri,2014,465329.08,3075.08
+el Putxet i el Farró,Barri,2014,261990.84,2630.58
+Gràcia,Districte,2014,195260.51,2374.33
+Vallcarca i els Penitents,Barri,2014,191619.25,2267.56
+el Coll,Barri,2014,142163.57,1788.03
+la Salut,Barri,2014,215222.13,2246.23
+la Vila de Gràcia,Barri,2014,196291.63,2479.48
+el Camp d'en Grassot i Gràcia Nova,Barri,2014,197413.47,2406.20
+Horta-Guinardó,Districte,2014,135094.05,1776.13
+el Baix Guinardó,Barri,2014,153181.89,2117.62
+Can Baró,Barri,2014,137833.54,1762.54
+el Guinardó,Barri,2014,132975.37,1835.60
+la Font d'en Fargues,Barri,2014,204230.43,2118.81
+el Carmel,Barri,2014,125216.61,1384.01
+la Teixonera,Barri,2014,95941.48,1441.47
+Sant Genís dels Agudells,Barri,2014,79210,1306.60
+Montbau,Barri,2014,108851.85,1597.96
+la Vall d'Hebron,Barri,2014,138669.66,2075.69
+la Clota,Barri,2014,126724.87,872.87
+Horta,Barri,2014,125581.03,1744.97
+Nou Barris,Districte,2014,91864.62,1398.11
+Vilapicina i la Torre Llobeta,Barri,2014,112933.38,1639.98
+Porta,Barri,2014,113414.83,1690.73
+el Turó de la Peira,Barri,2014,89439.34,1340.14
+Can Peguera,Barri,2014,,
+la Guineueta,Barri,2014,128452.48,1760.36
+Canyelles,Barri,2014,76235.90,1186.24
+les Roquetes,Barri,2014,66487.86,1126.07
+Verdun,Barri,2014,83841.60,1367.57
+la Prosperitat,Barri,2014,92247.96,1477.40
+la Trinitat Nova,Barri,2014,55227.61,950.76
+Torre Baró,Barri,2014,,
+Ciutat Meridiana,Barri,2014,40800.74,689.57
+Vallbona,Barri,2014,,
+Sant Andreu Districte,,2014,130934.07,1823.08
+la Trinitat Vella,Barri,2014,61500.99,1039.54
+Baró de Viver,Barri,2014,31583.99,438.50
+el Bon Pastor,Barri,2014,94859.30,1540.22
+Sant Andreu (Barri),,2014,145584.33,1940.34
+la Sagrera,Barri,2014,140775.29,2042.57
+el Congrés i els Indians,Barri,2014,113337.02,1551.91
+Navas,Barri,2014,132313.21,1798.61
+Sant Martí,Districte,2014,186955.85,2168.54
+el Camp de l'Arpa del Clot,Barri,2014,141463.02,2006.01
+el Clot,Barri,2014,154239.64,1985.16
+el Parc i la Llacuna del Poblenou,Barri,2014,162578.74,2070.76
+la Vila Olímpica del Poblenou,Barri,2014,344706.50,2986.34
+el Poblenou,Barri,2014,204704.05,2550.99
+Diagonal Mar i el Front Marítim del Poblenou,Barri,2014,315335.12,2970.68
+el Besòs i el Maresme,Barri,2014,75003.18,1212.03
+Provençals del Poblenou,Barri,2014,132820.22,1756.13
+Sant Martí de Provençals,Barri,2014,114218.02,1543.70
+la Verneda i la Pau,Barri,2014,105756.27,1522.60
+Barcelona,Municipi,2015,225424.08,2557.81
+Ciutat Vella,Districte,2015,180449.54,2705.46
+el Raval,Barri,2015,148830.39,2345.31
+el Barri Gòtic,Barri,2015,254518.84,2749.99
+la Barceloneta,Barri,2015,134457.13,3021.22
+"Sant Pere,Santa Caterina i la Ribera",Barri,2015,219613.55,2980.33
+Eixample,Districte,2015,279851.64,2983.03
+el Fort Pienc,Barri,2015,228075.47,2766.65
+la Sagrada Família,Barri,2015,190636.72,2581.22
+la Dreta de l'Eixample,Barri,2015,458243.64,3622.76
+l'Antiga Esquerra de l'Eixample,Barri,2015,296649.14,3203.90
+la Nova Esquerra de l'Eixample,Barri,2015,240191.81,2877.24
+Sant Antoni,Barri,2015,217325.15,2623.38
+Sants-Montjuïc,Districte,2015,150443.63,2165.93
+el Poble Sec - AEI Parc de Montjuïc,Barri,2015,135399.61,2160.25
+la Marina del Prat Vermell - AEI Zona Franca,Barri,2015,114049.72,1436.33
+la Marina de Port,Barri,2015,163550.74,2046.25
+la Font de la Guatlla,Barri,2015,186591.09,2218.51
+Hostafrancs,Barri,2015,142795.11,2053.58
+la Bordeta,Barri,2015,151404.88,2175.22
+Sants - Badal,Barri,2015,144615.77,2079.78
+Sants,Barri,2015,162505.01,2349.03
+Les Corts,Districte,2015,317182.57,3076.46
+les Corts,Barri,2015,266110.85,2913.00
+la Maternitat i Sant Ramon,Barri,2015,246898.35,2952.62
+Pedralbes,Barri,2015,628701.93,3892.90
+Sarrià-Sant Gervasi,Districte,2015,490866.27,3508.59
+"Vallvidrera,el Tibidabo i les Planes",Barri,2015,,
+Sarrià,Barri,2015,438232.01,3785.28
+les Tres Torres,Barri,2015,648909.64,4049.57
+Sant Gervasi - la Bonanova,Barri,2015,455200.26,3501.57
+Sant Gervasi - Galvany,Barri,2015,569694.40,3604.17
+el Putxet i el Farró,Barri,2015,308911.16,2867.40
+Gràcia,Districte,2015,196876.99,2574.77
+Vallcarca i els Penitents,Barri,2015,212666.26,2539.28
+el Coll,Barri,2015,150458.54,2021.80
+la Salut,Barri,2015,217166.78,2543.46
+la Vila de Gràcia,Barri,2015,195027.18,2615.30
+el Camp d'en Grassot i Gràcia Nova,Barri,2015,193411.47,2640.42
+Horta-Guinardó,Districte,2015,148992.98,2069.91
+el Baix Guinardó,Barri,2015,177593.25,2444.70
+Can Baró,Barri,2015,116947.01,1826.57
+el Guinardó,Barri,2015,157111.51,2131.89
+la Font d'en Fargues,Barri,2015,214499.33,2111.62
+el Carmel,Barri,2015,126556.52,1910.77
+la Teixonera,Barri,2015,95729.46,1605.24
+Sant Genís dels Agudells,Barri,2015,139825.14,2020.61
+Montbau,Barri,2015,124585.32,1973.74
+la Vall d'Hebron,Barri,2015,157423.14,2502
+la Clota,Barri,2015,148939.83,1709.29
+Horta,Barri,2015,135323.09,1910.31
+Nou Barris,Districte,2015,128125.18,1759.36
+Vilapicina i la Torre Llobeta,Barri,2015,132237.62,1884.82
+Porta,Barri,2015,137620.40,1942.38
+el Turó de la Peira,Barri,2015,118613.22,1941.16
+Can Peguera,Barri,2015,,
+la Guineueta,Barri,2015,138768.80,1756.01
+Canyelles,Barri,2015,111483.37,1531.74
+les Roquetes,Barri,2015,107030.55,1485.97
+Verdun,Barri,2015,112217.32,1832.10
+la Prosperitat,Barri,2015,111333.38,1878.76
+la Trinitat Nova,Barri,2015,104753.87,1403.03
+Torre Baró,Barri,2015,,
+Ciutat Meridiana,Barri,2015,225841.50,1482.05
+Vallbona,Barri,2015,103000,1929.40
+Sant Andreu Districte,,2015,158527.25,1990.36
+la Trinitat Vella,Barri,2015,173194.41,1658.26
+Baró de Viver,Barri,2015,51014.39,634.31
+el Bon Pastor,Barri,2015,242114.38,1619.74
+Sant Andreu (Barri),,2015,149868.38,2023.96
+la Sagrera,Barri,2015,150133.43,2173.23
+el Congrés i els Indians,Barri,2015,138233.66,1919.10
+Navas,Barri,2015,164694.01,2201.83
+Sant Martí,Districte,2015,201206.80,2480.66
+el Camp de l'Arpa del Clot,Barri,2015,159139.47,2314.66
+el Clot,Barri,2015,156427.96,2145.04
+el Parc i la Llacuna del Poblenou,Barri,2015,209715.61,2785.36
+la Vila Olímpica del Poblenou,Barri,2015,320822.91,3296.34
+el Poblenou,Barri,2015,211171.37,2717.55
+Diagonal Mar i el Front Marítim del Poblenou,Barri,2015,535134.05,5118.35
+el Besòs i el Maresme,Barri,2015,143559.24,1743.15
+Provençals del Poblenou,Barri,2015,165169.57,2091.37
+Sant Martí de Provençals,Barri,2015,138893.56,1908.66
+la Verneda i la Pau,Barri,2015,154149.79,1842.44
+Barcelona,Municipi,2016,231972.37,2712.51
+Ciutat Vella,Districte,2016,206035.37,2988.75
+el Raval,Barri,2016,154500.97,2466.99
+el Barri Gòtic,Barri,2016,331210.16,3456.32
+la Barceloneta,Barri,2016,162033.39,3502.87
+"Sant Pere,Santa Caterina i la Ribera",Barri,2016,237917.08,3239.15
+Eixample,Districte,2016,307582.42,3380.77
+el Fort Pienc,Barri,2016,242710.62,2933.03
+la Sagrada Família,Barri,2016,220974.76,2995.36
+la Dreta de l'Eixample,Barri,2016,469231.01,4229.16
+l'Antiga Esquerra de l'Eixample,Barri,2016,366596.87,3688.83
+la Nova Esquerra de l'Eixample,Barri,2016,266263.29,3171.74
+Sant Antoni,Barri,2016,236378.23,2985.53
+Sants-Montjuïc,Districte,2016,162704.56,2353.76
+el Poble Sec - AEI Parc de Montjuïc,Barri,2016,161798.34,2587.60
+la Marina del Prat Vermell - AEI Zona Franca,Barri,2016,90869.04,1100
+la Marina de Port,Barri,2016,163090.27,1982.96
+la Font de la Guatlla,Barri,2016,165066.24,2247.74
+Hostafrancs,Barri,2016,154774.80,2229.53
+la Bordeta,Barri,2016,138829.29,2054.92
+Sants - Badal,Barri,2016,166182.89,2401.72
+Sants,Barri,2016,175450.38,2512.32
+Les Corts,Districte,2016,319008.90,3283.75
+les Corts,Barri,2016,279559.62,3449.65
+la Maternitat i Sant Ramon,Barri,2016,250494.47,2894.44
+Pedralbes,Barri,2016,512141.88,3348.79
+Sarrià-Sant Gervasi,Districte,2016,503590.87,3749.52
+"Vallvidrera,el Tibidabo i les Planes",Barri,2016,474233.75,3496
+Sarrià,Barri,2016,436247.19,4010.27
+les Tres Torres,Barri,2016,697441.51,4292.17
+Sant Gervasi - la Bonanova,Barri,2016,476687.19,3518.41
+Sant Gervasi - Galvany,Barri,2016,604433.54,4011.49
+el Putxet i el Farró,Barri,2016,295442.67,3057.24
+Gràcia,Districte,2016,228762.87,2928.47
+Vallcarca i els Penitents,Barri,2016,263587.50,2815.87
+el Coll,Barri,2016,156390.69,1975.10
+la Salut,Barri,2016,235146.01,2718.75
+la Vila de Gràcia,Barri,2016,230038.43,3124.88
+el Camp d'en Grassot i Gràcia Nova,Barri,2016,224362.39,3005.89
+Horta-Guinardó,Districte,2016,147181.35,2037.88
+el Baix Guinardó,Barri,2016,188980.57,2564.11
+Can Baró,Barri,2016,147843.94,2016.38
+el Guinardó,Barri,2016,161093.05,2241.85
+la Font d'en Fargues,Barri,2016,207741.64,2318.33
+el Carmel,Barri,2016,95012.42,1505.39
+la Teixonera,Barri,2016,107099.18,1690.25
+Sant Genís dels Agudells,Barri,2016,129359.44,1795.74
+Montbau,Barri,2016,133634.04,1847
+la Vall d'Hebron,Barri,2016,161030.44,2185.83
+la Clota,Barri,2016,121730.75,758.47
+Horta,Barri,2016,149794.31,2076.84
+Nou Barris,Districte,2016,104819.71,1621.14
+Vilapicina i la Torre Llobeta,Barri,2016,138356.23,2047.48
+Porta,Barri,2016,133123.70,1994.70
+el Turó de la Peira,Barri,2016,96174.41,1493.80
+Can Peguera,Barri,2016,,
+la Guineueta,Barri,2016,136996.63,1834.15
+Canyelles,Barri,2016,109066.68,1584.10
+les Roquetes,Barri,2016,69982.12,1278.39
+Verdun,Barri,2016,93122.11,1552.15
+la Prosperitat,Barri,2016,111860.03,1765.41
+la Trinitat Nova,Barri,2016,70083.18,1218.67
+Torre Baró,Barri,2016,,
+Ciutat Meridiana,Barri,2016,57140.41,930.03
+Vallbona,Barri,2016,102196.73,1021.56
+Sant Andreu Districte,,2016,145879.13,1994.00
+la Trinitat Vella,Barri,2016,74108.66,1112.13
+Baró de Viver,Barri,2016,48269.59,660.86
+el Bon Pastor,Barri,2016,111265.60,1538.65
+Sant Andreu (Barri),,2016,178101.51,2381.87
+la Sagrera,Barri,2016,154303.25,2180.55
+el Congrés i els Indians,Barri,2016,150060.25,2069.77
+Navas,Barri,2016,131032.38,1777.23
+Sant Martí,Districte,2016,190161.43,2458.14
+el Camp de l'Arpa del Clot,Barri,2016,172323.07,2502.09
+el Clot,Barri,2016,180223.69,2443.04
+el Parc i la Llacuna del Poblenou,Barri,2016,219393.35,2746.70
+la Vila Olímpica del Poblenou,Barri,2016,381507.76,3782.13
+el Poblenou,Barri,2016,236423.69,2924.23
+Diagonal Mar i el Front Marítim del Poblenou,Barri,2016,412709.15,4210.76
+el Besòs i el Maresme,Barri,2016,98127.47,1554.63
+Provençals del Poblenou,Barri,2016,174112.42,2266.33
+Sant Martí de Provençals,Barri,2016,148592.36,1988.13
+la Verneda i la Pau,Barri,2016,121728.31,1733.46
+Barcelona,Municipi,2017,267845.45,3139.32
+Ciutat Vella,Districte,2017,230449.35,3457
+el Raval,Barri,2017,171658.29,2824.09
+el Barri Gòtic,Barri,2017,378597.84,3860.89
+la Barceloneta,Barri,2017,186651.37,4228.47
+"Sant Pere,Santa Caterina i la Ribera",Barri,2017,281632.15,4053.51
+Eixample,Districte,2017,368664.69,3868.65
+el Fort Pienc,Barri,2017,282792.89,3420.88
+la Sagrada Família,Barri,2017,274200.90,3518.97
+la Dreta de l'Eixample,Barri,2017,622180.80,4738.08
+l'Antiga Esquerra de l'Eixample,Barri,2017,407756.67,4189.93
+la Nova Esquerra de l'Eixample,Barri,2017,289633.05,3592.73
+Sant Antoni,Barri,2017,291127.52,3553.28
+Sants-Montjuïc,Districte,2017,196843.73,2798.73
+el Poble Sec - AEI Parc de Montjuïc,Barri,2017,202573.77,3212.48
+la Marina del Prat Vermell - AEI Zona Franca,Barri,2017,115642.42,1465.40
+la Marina de Port,Barri,2017,165467.64,2112.23
+la Font de la Guatlla,Barri,2017,212081.46,2854.11
+Hostafrancs,Barri,2017,188358.19,2740.51
+la Bordeta,Barri,2017,192782.94,2585.38
+Sants - Badal,Barri,2017,190266.30,2692.30
+Sants,Barri,2017,226748.49,3077.75
+Les Corts,Districte,2017,392211.01,3840.82
+les Corts,Barri,2017,341838.26,3852.36
+la Maternitat i Sant Ramon,Barri,2017,294754.58,3329.56
+Pedralbes,Barri,2017,728073.73,4643.59
+Sarrià-Sant Gervasi,Districte,2017,546217.87,4310.40
+"Vallvidrera,el Tibidabo i les Planes",Barri,2017,396412.16,2686.40
+Sarrià,Barri,2017,519676.64,4691.44
+les Tres Torres,Barri,2017,688537.19,4644.35
+Sant Gervasi - la Bonanova,Barri,2017,537222.83,4253.12
+Sant Gervasi - Galvany,Barri,2017,655760.26,4463.13
+el Putxet i el Farró,Barri,2017,353915.34,3860.43
+Gràcia,Districte,2017,285943.15,3444.97
+Vallcarca i els Penitents,Barri,2017,247745.12,3031.77
+el Coll,Barri,2017,175112.85,2207.14
+la Salut,Barri,2017,265353.95,3293.11
+la Vila de Gràcia,Barri,2017,287684.45,3757.83
+el Camp d'en Grassot i Gràcia Nova,Barri,2017,328252.72,3455.11
+Horta-Guinardó,Districte,2017,174532.89,2464.15
+el Baix Guinardó,Barri,2017,216592.33,3064.68
+Can Baró,Barri,2017,186295.71,2453.77
+el Guinardó,Barri,2017,190744.81,2616.78
+la Font d'en Fargues,Barri,2017,227669.66,2879.63
+el Carmel,Barri,2017,131817.74,1936.38
+la Teixonera,Barri,2017,137051.10,2019.93
+Sant Genís dels Agudells,Barri,2017,135041.69,1988.39
+Montbau,Barri,2017,144065.46,2182.11
+la Vall d'Hebron,Barri,2017,195520.19,3113.76
+la Clota,Barri,2017,,
+Horta,Barri,2017,160495.78,2378.85
+Nou Barris,Districte,2017,126164.24,1916.49
+Vilapicina i la Torre Llobeta,Barri,2017,177082.87,2459.72
+Porta,Barri,2017,160385.39,2383.03
+el Turó de la Peira,Barri,2017,117111.28,1811.90
+Can Peguera,Barri,2017,127458.73,1715.83
+la Guineueta,Barri,2017,151164.98,2140.66
+Canyelles,Barri,2017,131387.47,1686.23
+les Roquetes,Barri,2017,100053.73,1507.36
+Verdun,Barri,2017,107571.30,1815.90
+la Prosperitat,Barri,2017,122869.29,2032.54
+la Trinitat Nova,Barri,2017,87001.42,1502.83
+Torre Baró,Barri,2017,100028.57,1103.67
+Ciutat Meridiana,Barri,2017,71007.49,1139.43
+Vallbona,Barri,2017,113500,1120.17
+Sant Andreu Districte,,2017,178243.51,2419.23
+la Trinitat Vella,Barri,2017,94556.02,1542.12
+Baró de Viver,Barri,2017,88737.54,1124.35
+el Bon Pastor,Barri,2017,149469.17,1931.75
+Sant Andreu (Barri),,2017,201347.55,2693.25
+la Sagrera,Barri,2017,181721.28,2531.84
+el Congrés i els Indians,Barri,2017,175185.37,2341.02
+Navas,Barri,2017,197491.30,2618.31
+Sant Martí,Districte,2017,239498.88,3001.09
+el Camp de l'Arpa del Clot,Barri,2017,223340.31,3106.18
+el Clot,Barri,2017,208079.73,2955.39
+el Parc i la Llacuna del Poblenou,Barri,2017,255965.92,3394.54
+la Vila Olímpica del Poblenou,Barri,2017,456047.80,4430.04
+el Poblenou,Barri,2017,271652.41,3620.13
+Diagonal Mar i el Front Marítim del Poblenou,Barri,2017,510169.84,5241.33
+el Besòs i el Maresme,Barri,2017,111406.10,1824.91
+Provençals del Poblenou,Barri,2017,260231.25,2876.21
+Sant Martí de Provençals,Barri,2017,163454.45,2224.92
+la Verneda i la Pau,Barri,2017,185065.40,2027.57
+Barcelona,Municipi,2018,285056.11,3377.95
+Ciutat Vella,Districte,2018,262222.88,3833.12
+el Raval,Barri,2018,229446.01,3290.68
+el Barri Gòtic,Barri,2018,387396.47,4483.02
+la Barceloneta,Barri,2018,198150.24,4510.32
+"Sant Pere,Santa Caterina i la Ribera",Barri,2018,285871.92,4073.25
+Eixample,Districte,2018,384277.02,4111.17
+el Fort Pienc,Barri,2018,321030.38,3782.29
+la Sagrada Família,Barri,2018,297727.99,3658.04
+la Dreta de l'Eixample,Barri,2018,664173.26,5137.60
+l'Antiga Esquerra de l'Eixample,Barri,2018,397601.19,4265.92
+la Nova Esquerra de l'Eixample,Barri,2018,312940.51,3951.26
+Sant Antoni,Barri,2018,321286.96,3881.45
+Sants-Montjuïc,Districte,2018,222693.22,3137.35
+el Poble Sec - AEI Parc de Montjuïc,Barri,2018,215707.86,3501.62
+la Marina del Prat Vermell - AEI Zona Franca,Barri,2018,86907.65,1214
+la Marina de Port,Barri,2018,199108.04,2388.17
+la Font de la Guatlla,Barri,2018,225862.48,2977.27
+Hostafrancs,Barri,2018,240940.49,3256.35
+la Bordeta,Barri,2018,241476.28,3048.29
+Sants - Badal,Barri,2018,199362.89,2991.05
+Sants,Barri,2018,245523.72,3417.85
+Les Corts,Districte,2018,428318.20,4204.24
+les Corts,Barri,2018,392313.35,4203.22
+la Maternitat i Sant Ramon,Barri,2018,323170.43,3819.74
+Pedralbes,Barri,2018,812719.75,5106.93
+Sarrià-Sant Gervasi,Districte,2018,605629.80,4710.31
+"Vallvidrera,el Tibidabo i les Planes",Barri,2018,329322.44,3447.89
+Sarrià,Barri,2018,557238.54,5240.45
+les Tres Torres,Barri,2018,726379.10,4944.78
+Sant Gervasi - la Bonanova,Barri,2018,612448.12,4724.87
+Sant Gervasi - Galvany,Barri,2018,701170.72,4805.13
+el Putxet i el Farró,Barri,2018,410237.19,4140.60
+Gràcia,Districte,2018,290540.96,3823.52
+Vallcarca i els Penitents,Barri,2018,252513.92,3274.55
+el Coll,Barri,2018,190916.30,2608.24
+la Salut,Barri,2018,286814.88,3366.56
+la Vila de Gràcia,Barri,2018,281545.61,4038.73
+el Camp d'en Grassot i Gràcia Nova,Barri,2018,338305.33,4112.16
+Horta-Guinardó,Districte,2018,193423.87,2690.09
+el Baix Guinardó,Barri,2018,281705.34,3580.61
+Can Baró,Barri,2018,176205.37,2653.93
+el Guinardó,Barri,2018,200563.25,2731.80
+la Font d'en Fargues,Barri,2018,280532.03,3363.10
+el Carmel,Barri,2018,130122.57,2125.40
+la Teixonera,Barri,2018,150370.56,2221.84
+Sant Genís dels Agudells,Barri,2018,143129.90,2040.78
+Montbau,Barri,2018,162238.83,2357.29
+la Vall d'Hebron,Barri,2018,226377.20,3336.92
+la Clota,Barri,2018,,
+Horta,Barri,2018,190241.28,2655.14
+Nou Barris,Districte,2018,148781.11,2174.43
+Vilapicina i la Torre Llobeta,Barri,2018,194337.63,2647.28
+Porta,Barri,2018,199282.47,2503.98
+el Turó de la Peira,Barri,2018,139427.19,2142.77
+Can Peguera,Barri,2018,,
+la Guineueta,Barri,2018,173638.05,2360.95
+Canyelles,Barri,2018,155277.88,1952.79
+les Roquetes,Barri,2018,120342.88,1889.22
+Verdun,Barri,2018,133140.42,2220.53
+la Prosperitat,Barri,2018,142708.53,2336.61
+la Trinitat Nova,Barri,2018,119097.29,1673.18
+Torre Baró,Barri,2018,74300,797
+Ciutat Meridiana,Barri,2018,90804.79,1516.79
+Vallbona,Barri,2018,123559.74,1119
+Sant Andreu Districte,,2018,190870.77,2626.14
+la Trinitat Vella,Barri,2018,101958.07,1661.79
+Baró de Viver,Barri,2018,90501.17,1121.80
+el Bon Pastor,Barri,2018,177654.16,2150.70
+Sant Andreu (Barri),,2018,208358.66,2895.27
+la Sagrera,Barri,2018,206218.20,2793.34
+el Congrés i els Indians,Barri,2018,187160.40,2668.89
+Navas,Barri,2018,211422.20,2864.85
+Sant Martí,Districte,2018,235635.65,3070.03
+el Camp de l'Arpa del Clot,Barri,2018,249871.06,3377.92
+el Clot,Barri,2018,222650.87,2964.37
+el Parc i la Llacuna del Poblenou,Barri,2018,284557.55,3683.10
+la Vila Olímpica del Poblenou,Barri,2018,435029.95,4404.96
+el Poblenou,Barri,2018,300715.45,3768.42
+Diagonal Mar i el Front Marítim del Poblenou,Barri,2018,437839.58,4748.45
+el Besòs i el Maresme,Barri,2018,125961.03,2004.26
+Provençals del Poblenou,Barri,2018,225300.37,3004.74
+Sant Martí de Provençals,Barri,2018,176192.03,2442.11
+la Verneda i la Pau,Barri,2018,150092.91,2115.50
+Barcelona,Municipi,2019,284091.75,3299.96
+Ciutat Vella,Districte,2019,245439.17,3592.33
+el Raval,Barri,2019,189957.14,3088.47
+el Barri Gòtic,Barri,2019,352884.89,3823.27
+la Barceloneta,Barri,2019,192624.65,4145.65
+"Sant Pere,Santa Caterina i la Ribera",Barri,2019,304773.25,3977.47
+Eixample,Districte,2019,370807.07,4032.45
+el Fort Pienc,Barri,2019,308476.12,3545.44
+la Sagrada Família,Barri,2019,273624.01,3551.40
+la Dreta de l'Eixample,Barri,2019,574981.85,4925.72
+l'Antiga Esquerra de l'Eixample,Barri,2019,406139.11,4153.56
+la Nova Esquerra de l'Eixample,Barri,2019,324162.02,3872.97
+Sant Antoni,Barri,2019,323969.55,4022.13
+Sants-Montjuïc,Districte,2019,218531.55,3153.22
+el Poble Sec - AEI Parc de Montjuïc,Barri,2019,228196.97,3579.51
+la Marina del Prat Vermell - AEI Zona Franca,Barri,2019,83675.66,943.43
+la Marina de Port,Barri,2019,202367.23,2639.68
+la Font de la Guatlla,Barri,2019,220709.98,3160.90
+Hostafrancs,Barri,2019,203099.74,3053.97
+la Bordeta,Barri,2019,225303.98,3193.01
+Sants - Badal,Barri,2019,204522.55,2951.02
+Sants,Barri,2019,232422.72,3165.68
+Les Corts,Districte,2019,425592.93,3979.67
+les Corts,Barri,2019,371227.30,3970.28
+la Maternitat i Sant Ramon,Barri,2019,307720.45,3412.72
+Pedralbes,Barri,2019,777603.00,4936.77
+Sarrià-Sant Gervasi,Districte,2019,623128.88,4473.91
+"Vallvidrera,el Tibidabo i les Planes",Barri,2019,497196.98,2885.10
+Sarrià,Barri,2019,537489.51,4860.73
+les Tres Torres,Barri,2019,719565.65,4415.33
+Sant Gervasi - la Bonanova,Barri,2019,618808.59,4650.19
+Sant Gervasi - Galvany,Barri,2019,741993.87,4571.69
+el Putxet i el Farró,Barri,2019,414632.56,4000.22
+Gràcia,Districte,2019,307701.59,3734.44
+Vallcarca i els Penitents,Barri,2019,314761.68,3206.03
+el Coll,Barri,2019,206357.11,2686.73
+la Salut,Barri,2019,312645.86,3487.57
+la Vila de Gràcia,Barri,2019,327579.69,4063.58
+el Camp d'en Grassot i Gràcia Nova,Barri,2019,302654.81,3884.49
+Horta-Guinardó,Districte,2019,195813.48,2647.63
+el Baix Guinardó,Barri,2019,242284.59,3194.48
+Can Baró,Barri,2019,193079.43,2679.32
+el Guinardó,Barri,2019,223985.08,3005.39
+la Font d'en Fargues,Barri,2019,270653.28,2738.59
+el Carmel,Barri,2019,138022.57,2087.37
+la Teixonera,Barri,2019,199549.84,2668.49
+Sant Genís dels Agudells,Barri,2019,149167.87,1963.11
+Montbau,Barri,2019,170955.43,2470.47
+la Vall d'Hebron,Barri,2019,204934.03,2822.26
+la Clota,Barri,2019,,
+Horta,Barri,2019,199126.94,2732.51
+Nou Barris,Districte,2019,150465.89,2190.88
+Vilapicina i la Torre Llobeta,Barri,2019,208914.24,2772.84
+Porta,Barri,2019,182162.82,2620.79
+el Turó de la Peira,Barri,2019,146538.26,2105.61
+Can Peguera,Barri,2019,174600,2064.40
+la Guineueta,Barri,2019,189878.68,2398.44
+Canyelles,Barri,2019,153929.43,1860.73
+les Roquetes,Barri,2019,119192.63,1918.68
+Verdun,Barri,2019,132108.33,2066.73
+la Prosperitat,Barri,2019,153549.91,2362.88
+la Trinitat Nova,Barri,2019,105697.51,1800.05
+Torre Baró,Barri,2019,,
+Ciutat Meridiana,Barri,2019,96176.80,1485.78
+Vallbona,Barri,2019,,
+Sant Andreu Districte,,2019,202668.77,2717.25
+la Trinitat Vella,Barri,2019,112379.81,1703.43
+Baró de Viver,Barri,2019,112771.43,1438.29
+el Bon Pastor,Barri,2019,150886.09,2175.02
+Sant Andreu (Barri),,2019,221787.16,2906.89
+la Sagrera,Barri,2019,217461.74,3009.46
+el Congrés i els Indians,Barri,2019,199298.61,2712.10
+Navas,Barri,2019,237328.56,2948.99
+Sant Martí,Districte,2019,239972.08,3029.05
+el Camp de l'Arpa del Clot,Barri,2019,248023.19,3286.86
+el Clot,Barri,2019,233051.28,3167.66
+el Parc i la Llacuna del Poblenou,Barri,2019,268864.84,3673.90
+la Vila Olímpica del Poblenou,Barri,2019,390264.13,3364.97
+el Poblenou,Barri,2019,279501.50,3754.95
+Diagonal Mar i el Front Marítim del Poblenou,Barri,2019,460704.65,4261.27
+el Besòs i el Maresme,Barri,2019,135134.87,2034.82
+Provençals del Poblenou,Barri,2019,236427.85,2940.28
+Sant Martí de Provençals,Barri,2019,190512.98,2481.02
+la Verneda i la Pau,Barri,2019,169955.03,2278.00
+Barcelona,Municipi,2020,286149.93,3286.19
+Ciutat Vella,Districte,2020,230316.32,3586.75
+el Raval,Barri,2020,185397.20,2910.10
+el Barri Gòtic,Barri,2020,317406.41,4182.82
+la Barceloneta,Barri,2020,186952.85,3786.36
+"Sant Pere,Santa Caterina i la Ribera",Barri,2020,293307.84,4344.93
+Eixample,Districte,2020,372468.09,3977.15
+el Fort Pienc,Barri,2020,285571.43,3492.44
+la Sagrada Família,Barri,2020,264073.06,3460.39
+la Dreta de l'Eixample,Barri,2020,676261.77,5253.03
+l'Antiga Esquerra de l'Eixample,Barri,2020,428932.57,4449.63
+la Nova Esquerra de l'Eixample,Barri,2020,310406.54,3775.74
+Sant Antoni,Barri,2020,316927.44,3576.55
+Sants-Montjuïc,Districte,2020,218657.44,3091.75
+el Poble Sec - AEI Parc de Montjuïc,Barri,2020,204857.75,3331.30
+la Marina del Prat Vermell - AEI Zona Franca,Barri,2020,120871.43,1407.43
+la Marina de Port,Barri,2020,180586.22,2279.47
+la Font de la Guatlla,Barri,2020,237809.18,3245
+Hostafrancs,Barri,2020,245430.98,3349.18
+la Bordeta,Barri,2020,233194.14,2983.34
+Sants - Badal,Barri,2020,218950.20,3117.09
+Sants,Barri,2020,243479.34,3364.61
+Les Corts,Districte,2020,443640.88,4105.19
+les Corts,Barri,2020,391242.35,4140.62
+la Maternitat i Sant Ramon,Barri,2020,336465.32,3579.33
+Pedralbes,Barri,2020,795957.50,4770.92
+Sarrià-Sant Gervasi,Districte,2020,609740.69,4387.83
+"Vallvidrera,el Tibidabo i les Planes",Barri,2020,552571.43,3260.14
+Sarrià,Barri,2020,633275.96,4964.38
+les Tres Torres,Barri,2020,729930.03,4258.73
+Sant Gervasi - la Bonanova,Barri,2020,569492.27,4241.03
+Sant Gervasi - Galvany,Barri,2020,717999.52,4642.24
+el Putxet i el Farró,Barri,2020,385737.43,3730.63
+Gràcia,Districte,2020,298943.29,3695.00
+Vallcarca i els Penitents,Barri,2020,308556.12,3428.57
+el Coll,Barri,2020,228683.10,3066.07
+la Salut,Barri,2020,283693.50,3268.30
+la Vila de Gràcia,Barri,2020,303467.31,3950.37
+el Camp d'en Grassot i Gràcia Nova,Barri,2020,307852.77,3642.51
+Horta-Guinardó,Districte,2020,196921.43,2657.33
+el Baix Guinardó,Barri,2020,255596.90,3201.27
+Can Baró,Barri,2020,203836.76,2727.71
+el Guinardó,Barri,2020,212386.97,2888.40
+la Font d'en Fargues,Barri,2020,262400.77,3034.10
+el Carmel,Barri,2020,143883.48,2239.51
+la Teixonera,Barri,2020,160893.74,2308.32
+Sant Genís dels Agudells,Barri,2020,143822.70,1855.31
+Montbau,Barri,2020,163136.34,2492.91
+la Vall d'Hebron,Barri,2020,212326.22,3113
+la Clota,Barri,2020,,
+Horta,Barri,2020,214568.73,2688.88
+Nou Barris,Districte,2020,142362.13,2098.32
+Vilapicina i la Torre Llobeta,Barri,2020,195435.90,2636.52
+Porta,Barri,2020,174839.83,2502.95
+el Turó de la Peira,Barri,2020,132669.24,1966.27
+Can Peguera,Barri,2020,,
+la Guineueta,Barri,2020,177069.14,2242.54
+Canyelles,Barri,2020,174718.92,2002.16
+les Roquetes,Barri,2020,115653.09,1842.86
+Verdun,Barri,2020,120953.91,2088.57
+la Prosperitat,Barri,2020,143456.73,2223.86
+la Trinitat Nova,Barri,2020,103770.46,1728.67
+Torre Baró,Barri,2020,103859.57,1018
+Ciutat Meridiana,Barri,2020,96579.53,1528.88
+Vallbona,Barri,2020,121200,1194.80
+Sant Andreu Districte,,2020,202562.20,2670.73
+la Trinitat Vella,Barri,2020,86597.52,1430.05
+Baró de Viver,Barri,2020,118841.28,1459.33
+el Bon Pastor,Barri,2020,156617.83,2134.12
+Sant Andreu (Barri),,2020,223707.15,2984.35
+la Sagrera,Barri,2020,228950.11,2949.39
+el Congrés i els Indians,Barri,2020,216872.34,2739.47
+Navas,Barri,2020,228741.95,2895.82
+Sant Martí,Districte,2020,241027.74,3040.11
+el Camp de l'Arpa del Clot,Barri,2020,237179.46,3251.45
+el Clot,Barri,2020,242620.75,3235.30
+el Parc i la Llacuna del Poblenou,Barri,2020,280561.45,3536.10
+la Vila Olímpica del Poblenou,Barri,2020,556548.93,4428.06
+el Poblenou,Barri,2020,304279.44,3862.78
+Diagonal Mar i el Front Marítim del Poblenou,Barri,2020,458438.64,4490.72
+el Besòs i el Maresme,Barri,2020,135174.25,2033.33
+Provençals del Poblenou,Barri,2020,220767.83,2852.16
+Sant Martí de Provençals,Barri,2020,189568.80,2516.09
+la Verneda i la Pau,Barri,2020,183122.18,2202.11
+Barcelona,Municipi,2021,291944.04,3326.10
+Ciutat Vella,Districte,2021,257566.41,3514.58
+el Raval,Barri,2021,198808.77,2818.79
+el Barri Gòtic,Barri,2021,382913.31,4432.99
+la Barceloneta,Barri,2021,177461.10,3851.29
+"Sant Pere,Santa Caterina i la Ribera",Barri,2021,306962.82,3670.45
+Eixample,Districte,2021,376360.36,4033.66
+el Fort Pienc,Barri,2021,306759.47,3718.84
+la Sagrada Família,Barri,2021,281036.70,3607.28
+la Dreta de l'Eixample,Barri,2021,573215.84,4784.89
+l'Antiga Esquerra de l'Eixample,Barri,2021,443562.15,4360.40
+la Nova Esquerra de l'Eixample,Barri,2021,332927.76,3863.92
+Sant Antoni,Barri,2021,298605.17,3787.99
+Sants-Montjuïc,Districte,2021,222717.58,3112.40
+el Poble Sec - AEI Parc de Montjuïc,Barri,2021,219129.68,3273.84
+la Marina del Prat Vermell - AEI Zona Franca,Barri,2021,98128.19,1081.33
+la Marina de Port,Barri,2021,196041.09,2490.59
+la Font de la Guatlla,Barri,2021,267309.24,3448.01
+Hostafrancs,Barri,2021,242573.10,3352.76
+la Bordeta,Barri,2021,226427.59,3047.22
+Sants - Badal,Barri,2021,207345.39,3021.15
+Sants,Barri,2021,237670.27,3312.96
+Les Corts,Districte,2021,428046.31,4000.79
+les Corts,Barri,2021,379723.12,4061.50
+la Maternitat i Sant Ramon,Barri,2021,320976.44,3516.43
+Pedralbes,Barri,2021,789143.35,4786.75
+Sarrià-Sant Gervasi,Districte,2021,603100.48,4562.61
+"Vallvidrera,el Tibidabo i les Planes",Barri,2021,432339.48,2712.53
+Sarrià,Barri,2021,554977.30,4814.56
+les Tres Torres,Barri,2021,773348.83,4489.77
+Sant Gervasi - la Bonanova,Barri,2021,575177.50,4368.56
+Sant Gervasi - Galvany,Barri,2021,710808.54,4845.78
+el Putxet i el Farró,Barri,2021,385214.93,4166.80
+Gràcia,Districte,2021,294586.77,3717.25
+Vallcarca i els Penitents,Barri,2021,303111.13,3449.74
+el Coll,Barri,2021,204924.85,2546.63
+la Salut,Barri,2021,297166.95,3555.49
+la Vila de Gràcia,Barri,2021,298307.90,3924.24
+el Camp d'en Grassot i Gràcia Nova,Barri,2021,306343.47,3921.12
+Horta-Guinardó,Districte,2021,200798.34,2810.58
+el Baix Guinardó,Barri,2021,250102.77,3399.91
+Can Baró,Barri,2021,223701.84,3089.66
+el Guinardó,Barri,2021,219640.46,3046.22
+la Font d'en Fargues,Barri,2021,280323.85,3415.24
+el Carmel,Barri,2021,143269.61,2213.26
+la Teixonera,Barri,2021,154514.67,2298.85
+Sant Genís dels Agudells,Barri,2021,195870,2257.40
+Montbau,Barri,2021,158298.82,2428.67
+la Vall d'Hebron,Barri,2021,236542.09,3442.85
+la Clota,Barri,2021,,
+Horta,Barri,2021,191527.77,2678.20
+Nou Barris,Districte,2021,154077.29,2072.80
+Vilapicina i la Torre Llobeta,Barri,2021,224350.69,2843.18
+Porta,Barri,2021,211879.31,2697.23
+el Turó de la Peira,Barri,2021,139330.53,2097.37
+Can Peguera,Barri,2021,,
+la Guineueta,Barri,2021,229164.99,2364.07
+Canyelles,Barri,2021,173470.15,1988.82
+les Roquetes,Barri,2021,108595.81,1845.29
+Verdun,Barri,2021,134538.50,2061.28
+la Prosperitat,Barri,2021,154172.18,2295.90
+la Trinitat Nova,Barri,2021,102188.33,1757.04
+Torre Baró,Barri,2021,91995.34,830.02
+Ciutat Meridiana,Barri,2021,97695.25,1603.77
+Vallbona,Barri,2021,,
+Sant Andreu Districte,,2021,216044.77,2746.76
+la Trinitat Vella,Barri,2021,127700.24,1509.02
+Baró de Viver,Barri,2021,120205.98,1412.40
+el Bon Pastor,Barri,2021,148634.41,2080.99
+Sant Andreu (Barri),,2021,236171.45,3049.72
+la Sagrera,Barri,2021,217785.59,2897.66
+el Congrés i els Indians,Barri,2021,215587.29,2784.86
+Navas,Barri,2021,268993.85,3011.44
+Sant Martí,Districte,2021,249376.34,3096.09
+el Camp de l'Arpa del Clot,Barri,2021,234527.82,3182.46
+el Clot,Barri,2021,239269.39,3162.73
+el Parc i la Llacuna del Poblenou,Barri,2021,323375.94,3751.56
+la Vila Olímpica del Poblenou,Barri,2021,439063.48,4180.47
+el Poblenou,Barri,2021,302402.23,3940.33
+Diagonal Mar i el Front Marítim del Poblenou,Barri,2021,373194.84,3889.19
+el Besòs i el Maresme,Barri,2021,195985.46,2331.19
+Provençals del Poblenou,Barri,2021,227682.18,2864.59
+Sant Martí de Provençals,Barri,2021,200743.35,2603.21
+la Verneda i la Pau,Barri,2021,175160.66,2201.93
+Barcelona,Municipi,2022,317640.77,3594.31
+Ciutat Vella,Districte,2022,253034.99,3750.28
+el Raval,Barri,2022,202903.57,3172.61
+el Barri Gòtic,Barri,2022,360511.89,4358.90
+la Barceloneta,Barri,2022,193524.98,4032.78
+"Sant Pere,Santa Caterina i la Ribera",Barri,2022,291511.77,4057.40
+Eixample,Districte,2022,410076.59,4360.87
+el Fort Pienc,Barri,2022,356564.51,3938.31
+la Sagrada Família,Barri,2022,296183.36,3835.55
+la Dreta de l'Eixample,Barri,2022,657909.70,5351.00
+l'Antiga Esquerra de l'Eixample,Barri,2022,471973.23,4634.35
+la Nova Esquerra de l'Eixample,Barri,2022,338046.76,4125.76
+Sant Antoni,Barri,2022,322840.80,4152.82
+Sants-Montjuïc,Districte,2022,234303.51,3220.15
+el Poble Sec - AEI Parc de Montjuïc,Barri,2022,228227.26,3496.13
+la Marina del Prat Vermell - AEI Zona Franca,Barri,2022,105905.55,1143.33
+la Marina de Port,Barri,2022,196517.44,2345.74
+la Font de la Guatlla,Barri,2022,241533.34,3218.76
+Hostafrancs,Barri,2022,244358.11,3399.71
+la Bordeta,Barri,2022,222142.98,3019.47
+Sants - Badal,Barri,2022,248941.19,3242.97
+Sants,Barri,2022,263403.39,3609.65
+Les Corts,Districte,2022,443308.56,4167.07
+les Corts,Barri,2022,385633.22,4248.98
+la Maternitat i Sant Ramon,Barri,2022,340193.89,3722.27
+Pedralbes,Barri,2022,815293.30,4621.24
+Sarrià-Sant Gervasi,Districte,2022,665489.63,4804.44
+"Vallvidrera,el Tibidabo i les Planes",Barri,2022,399965.55,2949.40
+Sarrià,Barri,2022,650058.22,5286.06
+les Tres Torres,Barri,2022,911354.42,5017.07
+Sant Gervasi - la Bonanova,Barri,2022,638122.76,4509.95
+Sant Gervasi - Galvany,Barri,2022,739387.65,4990.48
+el Putxet i el Farró,Barri,2022,451465.67,4364.77
+Gràcia,Districte,2022,358030.45,3989.40
+Vallcarca i els Penitents,Barri,2022,296533.75,3505.28
+el Coll,Barri,2022,249673.77,3217.79
+la Salut,Barri,2022,297630.53,3667.54
+la Vila de Gràcia,Barri,2022,430515.89,4352.03
+el Camp d'en Grassot i Gràcia Nova,Barri,2022,321749.74,3948.18
+Horta-Guinardó,Districte,2022,214933.18,2896.98
+el Baix Guinardó,Barri,2022,250378.70,3363.54
+Can Baró,Barri,2022,216250.82,2989.24
+el Guinardó,Barri,2022,261550.84,3277.05
+la Font d'en Fargues,Barri,2022,269665.86,2940.82
+el Carmel,Barri,2022,148520.77,2250.41
+la Teixonera,Barri,2022,189367.76,2619.92
+Sant Genís dels Agudells,Barri,2022,171253.68,2355.93
+Montbau,Barri,2022,175858,2512.18
+la Vall d'Hebron,Barri,2022,254101.15,3227.22
+la Clota,Barri,2022,,
+Horta,Barri,2022,192725.78,2802.95
+Nou Barris,Districte,2022,166662.60,2478.16
+Vilapicina i la Torre Llobeta,Barri,2022,210803.42,2830.71
+Porta,Barri,2022,185695.55,2770.21
+el Turó de la Peira,Barri,2022,156727.31,2313.94
+Can Peguera,Barri,2022,141400,2264
+la Guineueta,Barri,2022,214974.45,2680.56
+Canyelles,Barri,2022,179004.68,2126.57
+les Roquetes,Barri,2022,128337.15,2157.07
+Verdun,Barri,2022,147196.62,2370.03
+la Prosperitat,Barri,2022,170631.01,2656.79
+la Trinitat Nova,Barri,2022,123947.48,2052.21
+Torre Baró,Barri,2022,99261.93,1324.75
+Ciutat Meridiana,Barri,2022,152367.17,2364.32
+Vallbona,Barri,2022,130524.85,1331
+Sant Andreu Districte,,2022,223058.87,2905.20
+la Trinitat Vella,Barri,2022,145849.50,2236.97
+Baró de Viver,Barri,2022,117140.71,1436.17
+el Bon Pastor,Barri,2022,174576.14,2351.82
+Sant Andreu (Barri),,2022,250685.24,3163.33
+la Sagrera,Barri,2022,225465.89,3053.36
+el Congrés i els Indians,Barri,2022,230342.35,2997.21
+Navas,Barri,2022,244539.70,3059.22
+Sant Martí,Districte,2022,290932.05,3493.80
+el Camp de l'Arpa del Clot,Barri,2022,258821.68,3409.44
+el Clot,Barri,2022,273223.35,3618.60
+el Parc i la Llacuna del Poblenou,Barri,2022,436135.14,4123.83
+la Vila Olímpica del Poblenou,Barri,2022,470669.89,4550.80
+el Poblenou,Barri,2022,356292.89,4387.01
+Diagonal Mar i el Front Marítim del Poblenou,Barri,2022,498537.57,5214.24
+el Besòs i el Maresme,Barri,2022,199296.45,2735.28
+Provençals del Poblenou,Barri,2022,252325.77,3205.60
+Sant Martí de Provençals,Barri,2022,202651.25,2694.65
+la Verneda i la Pau,Barri,2022,181098.78,2353.83
+Barcelona,Municipi,2023,324469.29,3619.75
+Ciutat Vella,Districte,2023,244908.29,3749.11
+el Raval,Barri,2023,202318.11,3204.91
+el Barri Gòtic,Barri,2023,327664.35,3946.86
+la Barceloneta,Barri,2023,205486.57,4264.59
+"Sant Pere,Santa Caterina i la Ribera",Barri,2023,287789.28,4212.73
+Eixample,Districte,2023,447374.39,4582.18
+el Fort Pienc,Barri,2023,342529.85,3933.92
+la Sagrada Família,Barri,2023,305795.20,4125.33
+la Dreta de l'Eixample,Barri,2023,718374.39,5522.94
+l'Antiga Esquerra de l'Eixample,Barri,2023,496457.76,4885.64
+la Nova Esquerra de l'Eixample,Barri,2023,357183.47,4296.73
+Sant Antoni,Barri,2023,368729.60,4269.36
+Sants-Montjuïc,Districte,2023,242021.45,3304.58
+el Poble Sec - AEI Parc de Montjuïc,Barri,2023,240835.68,3663.73
+la Marina del Prat Vermell - AEI Zona Franca,Barri,2023,,
+la Marina de Port,Barri,2023,208792.64,2680.39
+la Font de la Guatlla,Barri,2023,257958.01,3170.34
+Hostafrancs,Barri,2023,221662.75,3159.78
+la Bordeta,Barri,2023,270710.08,3162.24
+Sants - Badal,Barri,2023,234022.86,3407.35
+Sants,Barri,2023,265598.62,3650.88
+Les Corts,Districte,2023,459832.95,4259.74
+les Corts,Barri,2023,412945.41,4283.40
+la Maternitat i Sant Ramon,Barri,2023,328531.69,3846.57
+Pedralbes,Barri,2023,867128.45,4898.13
+Sarrià-Sant Gervasi,Districte,2023,697085.80,5049.24
+"Vallvidrera,el Tibidabo i les Planes",Barri,2023,343294.86,2804.11
+Sarrià,Barri,2023,660043.16,5591.32
+les Tres Torres,Barri,2023,839885.19,5336.44
+Sant Gervasi - la Bonanova,Barri,2023,765139.81,5100.11
+Sant Gervasi - Galvany,Barri,2023,771250.31,5253.60
+el Putxet i el Farró,Barri,2023,480200.16,4179.08
+Gràcia,Districte,2023,400812.81,4055.92
+Vallcarca i els Penitents,Barri,2023,325263.52,3579.48
+el Coll,Barri,2023,208135.48,2759.15
+la Salut,Barri,2023,302103.34,3478.51
+la Vila de Gràcia,Barri,2023,539972.44,4574.54
+el Camp d'en Grassot i Gràcia Nova,Barri,2023,314648.84,4041.32
+Horta-Guinardó,Districte,2023,208999.64,2832.58
+el Baix Guinardó,Barri,2023,262196.06,3449.03
+Can Baró,Barri,2023,192254.27,2734.36
+el Guinardó,Barri,2023,243243.34,3141.92
+la Font d'en Fargues,Barri,2023,287010.80,3081.14
+el Carmel,Barri,2023,145766.66,2238.10
+la Teixonera,Barri,2023,167167.60,2420.19
+Sant Genís dels Agudells,Barri,2023,167676.47,2112.85
+Montbau,Barri,2023,177367.65,2455.47
+la Vall d'Hebron,Barri,2023,254611.30,3404.30
+la Clota,Barri,2023,,
+Horta,Barri,2023,208225.09,2920.80
+Nou Barris,Districte,2023,158792.97,2352.94
+Vilapicina i la Torre Llobeta,Barri,2023,221525.45,2969.36
+Porta,Barri,2023,186818.52,2564.41
+el Turó de la Peira,Barri,2023,165160.27,2488.58
+Can Peguera,Barri,2023,227725.88,2832.33
+la Guineueta,Barri,2023,184804.35,2421.75
+Canyelles,Barri,2023,184952.20,2234.19
+les Roquetes,Barri,2023,114012.04,1959.32
+Verdun,Barri,2023,133261.88,2185
+la Prosperitat,Barri,2023,155748.68,2441.06
+la Trinitat Nova,Barri,2023,142417.56,2210.73
+Torre Baró,Barri,2023,105330.68,1124.60
+Ciutat Meridiana,Barri,2023,121010.52,1930.27
+Vallbona,Barri,2023,115333.33,1115.17
+Sant Andreu Districte,,2023,217903.71,2809.74
+la Trinitat Vella,Barri,2023,126378.42,1815.32
+Baró de Viver,Barri,2023,140762.70,1710.75
+el Bon Pastor,Barri,2023,155546.32,2180.41
+Sant Andreu (Barri),,2023,243255.95,3084.81
+la Sagrera,Barri,2023,252630.38,3304.12
+el Congrés i els Indians,Barri,2023,208143.91,2675.22
+Navas,Barri,2023,252444.02,3081.91
+Sant Martí,Districte,2023,277979.12,3378.45
+el Camp de l'Arpa del Clot,Barri,2023,267039.49,3538.29
+el Clot,Barri,2023,252070.95,3395.43
+el Parc i la Llacuna del Poblenou,Barri,2023,379423.32,4053.21
+la Vila Olímpica del Poblenou,Barri,2023,463996.72,4924.73
+el Poblenou,Barri,2023,328249.95,4052.49
+Diagonal Mar i el Front Marítim del Poblenou,Barri,2023,515689.10,5066.13
+el Besòs i el Maresme,Barri,2023,190884.75,2418.33
+Provençals del Poblenou,Barri,2023,258205.14,3209.31
+Sant Martí de Provençals,Barri,2023,203776.13,2661.88
+la Verneda i la Pau,Barri,2023,168844.89,2290.78
+Barcelona,Municipi,2024,336801.65,3787.84
+Ciutat Vella,Districte,2024,250131.23,3656.76
+el Raval,Barri,2024,192309.66,3001.95
+el Barri Gòtic,Barri,2024,424651.94,4529.33
+la Barceloneta,Barri,2024,195437.47,4080.11
+"Sant Pere,Santa Caterina i la Ribera",Barri,2024,280152.49,4137.34
+Eixample,Districte,2024,464560.98,4773.67
+el Fort Pienc,Barri,2024,369492.27,4151.51
+la Sagrada Família,Barri,2024,333806.07,4352.09
+la Dreta de l'Eixample,Barri,2024,739223.80,5858.58
+l'Antiga Esquerra de l'Eixample,Barri,2024,529352.13,5207.06
+la Nova Esquerra de l'Eixample,Barri,2024,377396.16,4430.51
+Sant Antoni,Barri,2024,370558.97,4232.20
+Sants-Montjuïc,Districte,2024,243523.21,3343.85
+el Poble Sec - AEI Parc de Montjuïc,Barri,2024,242848.22,3732.26
+la Marina del Prat Vermell - AEI Zona Franca,Barri,2024,255859.94,2673.15
+la Marina de Port,Barri,2024,199824.35,2537.68
+la Font de la Guatlla,Barri,2024,274155.98,3387.56
+Hostafrancs,Barri,2024,264777.16,3647.78
+la Bordeta,Barri,2024,241324.11,3198.95
+Sants - Badal,Barri,2024,242588.18,3418.64
+Sants,Barri,2024,264346.22,3621.58
+Les Corts,Districte,2024,493310.69,4614.73
+les Corts,Barri,2024,429348.78,4562.08
+la Maternitat i Sant Ramon,Barri,2024,373013.78,4299.56
+Pedralbes,Barri,2024,887836.76,5247.85
+Sarrià-Sant Gervasi,Districte,2024,723918.60,5165.03
+"Vallvidrera,el Tibidabo i les Planes",Barri,2024,437000,5589.22
+Sarrià,Barri,2024,730668.05,6220.51
+les Tres Torres,Barri,2024,917151.41,5004.25
+Sant Gervasi - la Bonanova,Barri,2024,773385.62,5339.29
+Sant Gervasi - Galvany,Barri,2024,795999.34,5087.68
+el Putxet i el Farró,Barri,2024,457301.94,4536.61
+Gràcia,Districte,2024,360903.66,4255.41
+Vallcarca i els Penitents,Barri,2024,359527.62,3930.96
+el Coll,Barri,2024,219921.10,2891.53
+la Salut,Barri,2024,360404.11,3986.15
+la Vila de Gràcia,Barri,2024,399968.63,4633.33
+el Camp d'en Grassot i Gràcia Nova,Barri,2024,335485.64,4244.43
+Horta-Guinardó,Districte,2024,235297.91,3180.99
+el Baix Guinardó,Barri,2024,298449.66,3992.82
+Can Baró,Barri,2024,196047.75,2832.04
+el Guinardó,Barri,2024,283000.14,3493.83
+la Font d'en Fargues,Barri,2024,259602.56,3417.26
+el Carmel,Barri,2024,159395.30,2485.16
+la Teixonera,Barri,2024,182359.58,2660.22
+Sant Genís dels Agudells,Barri,2024,218954.21,3035.15
+Montbau,Barri,2024,193076.92,2752.92
+la Vall d'Hebron,Barri,2024,221258.07,3254.81
+la Clota,Barri,2024,342453.30,3454.73
+Horta,Barri,2024,245190.09,3320.71
+Nou Barris,Districte,2024,166267.01,2468.08
+Vilapicina i la Torre Llobeta,Barri,2024,243856.27,3275.51
+Porta,Barri,2024,192307.06,2788.83
+el Turó de la Peira,Barri,2024,157634.79,2406.38
+Can Peguera,Barri,2024,,
+la Guineueta,Barri,2024,207486.29,2613.42
+Canyelles,Barri,2024,199538.10,2454.33
+les Roquetes,Barri,2024,127016.73,2145.37
+Verdun,Barri,2024,152106.48,2402.81
+la Prosperitat,Barri,2024,166291.87,2575.01
+la Trinitat Nova,Barri,2024,125349.84,2117.73
+Torre Baró,Barri,2024,115564.97,1313.13
+Ciutat Meridiana,Barri,2024,101346.92,1644.55
+Vallbona,Barri,2024,,
+Sant Andreu Districte,,2024,228498.52,2961.37
+la Trinitat Vella,Barri,2024,144687.38,2080.15
+Baró de Viver,Barri,2024,133307.03,1643.94
+el Bon Pastor,Barri,2024,176290.33,2317.25
+Sant Andreu (Barri),,2024,253371.45,3277.69
+la Sagrera,Barri,2024,238581.82,3193.05
+el Congrés i els Indians,Barri,2024,244298.10,3072.20
+Navas,Barri,2024,274816.81,3370.53
+Sant Martí,Districte,2024,288648.55,3598.08
+el Camp de l'Arpa del Clot,Barri,2024,274108.58,3614.33
+el Clot,Barri,2024,276729.11,3561.05
+el Parc i la Llacuna del Poblenou,Barri,2024,377445.16,4364.51
+la Vila Olímpica del Poblenou,Barri,2024,498663.88,4951.29
+el Poblenou,Barri,2024,349034.46,4585.12
+Diagonal Mar i el Front Marítim del Poblenou,Barri,2024,545622.08,5362.66
+el Besòs i el Maresme,Barri,2024,169510.67,2535.45
+Provençals del Poblenou,Barri,2024,274547.82,3435.45
+Sant Martí de Provençals,Barri,2024,231868.80,2914.58
+la Verneda i la Pau,Barri,2024,187362.85,2407.41

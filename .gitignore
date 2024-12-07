@@ -1,5 +1,6 @@
 # Ignore data directory
 data_raw/
+pkl_files/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

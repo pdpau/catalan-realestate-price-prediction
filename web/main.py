@@ -38,6 +38,17 @@ st.set_page_config(
 #st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
 # -- -- #
 
+st.markdown(
+    """
+    <style>
+        .stMainBlockContainer {
+            max-width: 900px;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 
 # -- Sidebar -- #
 with st.sidebar:

@@ -18,42 +18,19 @@ Detalles o Divisores: Slate 300 o 400.
 */
 
 
-/* Option Menu Styles */
-/* .stSelectbox {
-    font-weight: 400;
-} */
-
-/* .nav-link[data-v-5af006b8] {
-    background-color: blue;
-    font-size: 20px;
-    font-weight: 700 !important
-} */
-
-.stMain {
-    background-color: #CBD5E1; /* Slate 50 */
-    color: #1E293B; /* Slate 800 */
+.stMainBlockContainer {
+    max-width: 900px !important;
 }
 
-.stSidebarUserContent {
-    background-color: #334155; /* Slate 700 */
-    color: #E2E8F0; /* Slate 200 */
+.stButton > button {
+    width: 100%;
+    background-color: #FF4B4B;
+    color: white;
+    border: 1px solid #FF4B4B;
 }
 
-.menu .nav-item .nav-link[data-v-5af006b8] {
-    background-color: #334155 !important; /* Slate 700 */
-    color: #E2E8F0 !important; /* Slate 200 */
-    font-size: 16px;
-    font-weight: 400 !important;
+.stButton > button:hover {
+    background-color: white;
+    color: #FF4B4B;
+    border: 1px solid #FF4B4B;
 }
-
-.nav-link.active {
-    font-weight: 600 !important;
-}
-
-.nav-link:hover {
-    font-weight: 500 !important;
-}
-
-/* #MainMenu {
-    font-weight: 400;
-} */

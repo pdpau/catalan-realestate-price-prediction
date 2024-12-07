@@ -32,10 +32,10 @@ st.set_page_config(
 
 
 # -- Page styles -- #
-with open('styles.css', 'r') as file:
-    css = file.read()
-st.write("CSS Conetnt: ", css)
-st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
+#with open('styles.css', 'r') as file:
+#    css = file.read()
+#st.write("CSS Conetnt: ", css)
+#st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
 # -- -- #
 
 

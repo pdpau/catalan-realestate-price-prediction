@@ -14,8 +14,8 @@ Primer executar els notebooks sencers i després l'aplicació Streamlit, sinó e
 
 1. Clona aquest repositori:
     ```sh
-    git clone https://github.com/pdpau/spanish-realestate-price-prediction.git
-    cd spanish-realestate-price-prediction
+    git clone https://github.com/pdpau/catalan-realestate-price-prediction.git
+    cd catalan-realestate-price-prediction
     ```
 
 2. Instal·la les dependències:

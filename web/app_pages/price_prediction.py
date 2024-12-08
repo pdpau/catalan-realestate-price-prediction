@@ -39,33 +39,28 @@ def app():
 
     st.title('Predicción del precio de tu vivienda en Cataluña')
 
-    tab1, tab2 = st.tabs(['Predecir tu precio', 'Model Explainability'])
+    tab1, tab2 = st.tabs(['Herramienta de predicción', 'Model Explainability'])
 
     with tab1:
-        st.header('Predecir tu precio')
+        st.header('Introduce los datos de tu vivienda')
 
         col1, col2, col3, col4, col5 = st.columns(5) # Ens quedem amb "location" i descartem "region"
         with col1:
-            st.subheader('Title')
             location = st.selectbox(
                 'Localización',
                 lista_locations
             )
 
         with col2:
-            st.subheader('Title')
             size = st.number_input('Area (m²)', min_value=30, max_value=600)
 
         with col3:
-            st.subheader('Title')
             rooms = st.number_input('Habitaciones', min_value=1, max_value=7)
 
         with col4:
-            st.subheader('Title')
             bathrooms = st.number_input('Baños', min_value=1, max_value=5)
 
         with col5:
-            st.subheader('Title')
             type = st.selectbox(
                 'Tipo',
                 lista_types
@@ -85,12 +80,58 @@ def app():
         prediction = int(round(prediction[0], 2))
 
         if st.button('Predecir precio'):
-            st.write(f'Precio predicho: {prediction} €')
+            st.write(f'{prediction} €')
             st.write('---')
-            st.write(f'Nombre de vivendes de referencia a {location}: {len(data[data["location"] == location])}')
+            #st.write(f'Número de viviendas de referencia en {location}: {len(data[data["location"] == location])}')
+
+            # -- Gráfico con las estadísticas medias en location -- #
+            data_location = data[data['location'] == location]
+            mean_size = data_location['size'].mean()
+            mean_rooms = data_location['rooms'].mean()
+            mean_bathrooms = data_location['bathrooms'].mean()
+            mean_price = data_location['price'].mean()
+
+            st.subheader(f'Estadísticas medias en {location}')
+
+            fig, ax = plt.subplots(2, 2, figsize=(10, 10))
+
+            sns.histplot(data_location['size'], ax=ax[0, 0])
+            ax[0, 0].axvline(mean_size, color='r', linestyle='--')
+            ax[0, 0].set_title('Distribución de areas')
+            ax[0, 0].set_xlabel('Area (m²)')
+            ax[0, 0].set_ylabel('Frecuencia')
+
+            sns.histplot(data_location['rooms'], ax=ax[0, 1])
+            ax[0, 1].axvline(mean_rooms, color='r', linestyle='--')
+            ax[0, 1].set_title('Distribución de habitaciones')
+            ax[0, 1].set_xlabel('Habitaciones')
+            ax[0, 1].set_ylabel('Frecuencia')
+
+            sns.histplot(data_location['bathrooms'], ax=ax[1, 0])
+            ax[1, 0].axvline(mean_bathrooms, color='r', linestyle='--')
+            ax[1, 0].set_title('Distribución de baños')
+            ax[1, 0].set_xlabel('Baños')
+            ax[1, 0].set_ylabel('Frecuencia')
+
+            sns.histplot(data_location['price'], ax=ax[1, 1])
+            ax[1, 1].axvline(mean_price, color='r', linestyle='--')
+            ax[1, 1].set_title('Distribución de precios')
+            ax[1, 1].ticklabel_format(style='sci', axis='x')
+            ax[1, 1].set_xlabel('Precio (€)')
+            ax[1, 1].set_ylabel('Frecuencia')
+
+            st.pyplot(fig)
+
+            types = data_location['type'].unique()
+            fig, ax = plt.subplots(figsize=(10, 5))
+            sns.countplot(x=data_location['type'], ax=ax)
+            ax.set_title('Número de viviendas por tipo')
+            ax.set_xlabel('Tipo de vivienda')
+            ax.set_ylabel('Número de viviendas')
+            st.pyplot(fig)
         # -- -- #
 
     with tab2:
         st.header('Model Explainability')
-        #...
+        # TODO:...
 

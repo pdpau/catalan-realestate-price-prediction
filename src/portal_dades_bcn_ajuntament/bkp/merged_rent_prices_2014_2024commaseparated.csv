@@ -12,7 +12,7 @@ la Dreta de l Eixample;Barri;2000;;
 l Antiga Esquerra de l Eixample;Barri;2000;;
 la Nova Esquerra de l Eixample;Barri;2000;;
 Sant Antoni;Barri;2000;;
-Sants Montjuic;Districte;2000;6,05;336,56
+Sants-Montjuïc;Districte;2000;6,05;336,56
 el Poble Sec - AEI Parc Montjuic;Barri;2000;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2000;;
 la Marina de Port;Barri;2000;;
@@ -25,20 +25,20 @@ Les Corts;Districte;2000;7,59;567,73
 les Corts;Barri;2000;;
 la Maternitat i Sant Ramon;Barri;2000;;
 Pedralbes;Barri;2000;;
-Sarria - Sant Gervasi;Districte;2000;7,4;631,19
+Sarrià-Sant Gervasi;Districte;2000;7,4;631,19
 Vallvidrera el Tibidabo i les Planes;Barri;2000;;
 Sarria;Barri;2000;;
 les Tres Torres;Barri;2000;;
 Sant Gervasi - la Bonanova;Barri;2000;;
 Sant Gervasi - Galvany;Barri;2000;;
 el Putxet i el Farro;Barri;2000;;
-Gracia;Districte;2000;6,32;370,86
+Gràcia;Districte;2000;6,32;370,86
 Vallcarca i els Penitents;Barri;2000;;
 el Coll;Barri;2000;;
 la Salut;Barri;2000;;
-la Vila de Gracia;Barri;2000;;
-el Camp d en Grassot i Gracia Nova;Barri;2000;;
-Horta - Guinardo;Districte;2000;5,75;334,52
+la Vila de Gràcia;Barri;2000;;
+el Camp d en Grassot i Gràcia Nova;Barri;2000;;
+Horta-Guinardó;Districte;2000;5,75;334,52
 el Baix Guinardo;Barri;2000;;
 Can Baro;Barri;2000;;
 el Guinardo;Barri;2000;;
@@ -72,7 +72,7 @@ Sant Andreu;Barri;2000;;
 la Sagrera;Barri;2000;;
 el Congres i els Indians;Barri;2000;;
 Navas;Barri;2000;;
-Sant Marti;Districte;2000;5,74;341,65
+Sant Martí;Districte;2000;5,74;341,65
 el Camp de l Arpa del Clot;Barri;2000;;
 el Clot;Barri;2000;;
 el Parc i la Llacuna del Poblenou;Barri;2000;;
@@ -81,7 +81,7 @@ el Poblenou;Barri;2000;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2000;;
 el Besos i el Maresme;Barri;2000;;
 Provencals del Poblenou;Barri;2000;;
-Sant Marti de Provencals;Barri;2000;;
+Sant Martí de Provencals;Barri;2000;;
 la Verneda i la Pau;Barri;2000;;
 Barcelona;Municipi;2001;6,87;466,34
 Ciutat Vella;Districte;2001;6,43;350,92
@@ -96,7 +96,7 @@ la Dreta de l Eixample;Barri;2001;;
 l Antiga Esquerra de l Eixample;Barri;2001;;
 la Nova Esquerra de l Eixample;Barri;2001;;
 Sant Antoni;Barri;2001;;
-Sants Montjuic;Districte;2001;6,68;381,93
+Sants-Montjuïc;Districte;2001;6,68;381,93
 el Poble Sec - AEI Parc Montjuic;Barri;2001;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2001;;
 la Marina de Port;Barri;2001;;
@@ -109,20 +109,20 @@ Les Corts;Districte;2001;8,64;627,0
 les Corts;Barri;2001;;
 la Maternitat i Sant Ramon;Barri;2001;;
 Pedralbes;Barri;2001;;
-Sarria - Sant Gervasi;Districte;2001;8,24;659,92
+Sarrià-Sant Gervasi;Districte;2001;8,24;659,92
 Vallvidrera el Tibidabo i les Planes;Barri;2001;;
 Sarria;Barri;2001;;
 les Tres Torres;Barri;2001;;
 Sant Gervasi - la Bonanova;Barri;2001;;
 Sant Gervasi - Galvany;Barri;2001;;
 el Putxet i el Farro;Barri;2001;;
-Gracia;Districte;2001;7,04;425,72
+Gràcia;Districte;2001;7,04;425,72
 Vallcarca i els Penitents;Barri;2001;;
 el Coll;Barri;2001;;
 la Salut;Barri;2001;;
-la Vila de Gracia;Barri;2001;;
-el Camp d en Grassot i Gracia Nova;Barri;2001;;
-Horta - Guinardo;Districte;2001;6,45;390,5
+la Vila de Gràcia;Barri;2001;;
+el Camp d en Grassot i Gràcia Nova;Barri;2001;;
+Horta-Guinardó;Districte;2001;6,45;390,5
 el Baix Guinardo;Barri;2001;;
 Can Baro;Barri;2001;;
 el Guinardo;Barri;2001;;
@@ -156,7 +156,7 @@ Sant Andreu;Barri;2001;;
 la Sagrera;Barri;2001;;
 el Congres i els Indians;Barri;2001;;
 Navas;Barri;2001;;
-Sant Marti;Districte;2001;6,5;398,12
+Sant Martí;Districte;2001;6,5;398,12
 el Camp de l Arpa del Clot;Barri;2001;;
 el Clot;Barri;2001;;
 el Parc i la Llacuna del Poblenou;Barri;2001;;
@@ -165,7 +165,7 @@ el Poblenou;Barri;2001;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2001;;
 el Besos i el Maresme;Barri;2001;;
 Provencals del Poblenou;Barri;2001;;
-Sant Marti de Provencals;Barri;2001;;
+Sant Martí de Provencals;Barri;2001;;
 la Verneda i la Pau;Barri;2001;;
 Barcelona;Municipi;2002;7,62;519,81
 Ciutat Vella;Districte;2002;7,29;412,05
@@ -180,7 +180,7 @@ la Dreta de l Eixample;Barri;2002;;
 l Antiga Esquerra de l Eixample;Barri;2002;;
 la Nova Esquerra de l Eixample;Barri;2002;;
 Sant Antoni;Barri;2002;;
-Sants Montjuic;Districte;2002;7,51;437,04
+Sants-Montjuïc;Districte;2002;7,51;437,04
 el Poble Sec - AEI Parc Montjuic;Barri;2002;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2002;;
 la Marina de Port;Barri;2002;;
@@ -193,20 +193,20 @@ Les Corts;Districte;2002;8,9;621,48
 les Corts;Barri;2002;;
 la Maternitat i Sant Ramon;Barri;2002;;
 Pedralbes;Barri;2002;;
-Sarria - Sant Gervasi;Districte;2002;9,06;742,94
+Sarrià-Sant Gervasi;Districte;2002;9,06;742,94
 Vallvidrera el Tibidabo i les Planes;Barri;2002;;
 Sarria;Barri;2002;;
 les Tres Torres;Barri;2002;;
 Sant Gervasi - la Bonanova;Barri;2002;;
 Sant Gervasi - Galvany;Barri;2002;;
 el Putxet i el Farro;Barri;2002;;
-Gracia;Districte;2002;8,08;495,73
+Gràcia;Districte;2002;8,08;495,73
 Vallcarca i els Penitents;Barri;2002;;
 el Coll;Barri;2002;;
 la Salut;Barri;2002;;
-la Vila de Gracia;Barri;2002;;
-el Camp d en Grassot i Gracia Nova;Barri;2002;;
-Horta - Guinardo;Districte;2002;7,09;421,21
+la Vila de Gràcia;Barri;2002;;
+el Camp d en Grassot i Gràcia Nova;Barri;2002;;
+Horta-Guinardó;Districte;2002;7,09;421,21
 el Baix Guinardo;Barri;2002;;
 Can Baro;Barri;2002;;
 el Guinardo;Barri;2002;;
@@ -240,7 +240,7 @@ Sant Andreu;Barri;2002;;
 la Sagrera;Barri;2002;;
 el Congres i els Indians;Barri;2002;;
 Navas;Barri;2002;;
-Sant Marti;Districte;2002;7,47;467,71
+Sant Martí;Districte;2002;7,47;467,71
 el Camp de l Arpa del Clot;Barri;2002;;
 el Clot;Barri;2002;;
 el Parc i la Llacuna del Poblenou;Barri;2002;;
@@ -249,7 +249,7 @@ el Poblenou;Barri;2002;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2002;;
 el Besos i el Maresme;Barri;2002;;
 Provencals del Poblenou;Barri;2002;;
-Sant Marti de Provencals;Barri;2002;;
+Sant Martí de Provencals;Barri;2002;;
 la Verneda i la Pau;Barri;2002;;
 Barcelona;Municipi;2003;8,0;550,59
 Ciutat Vella;Districte;2003;7,59;443,15
@@ -264,7 +264,7 @@ la Dreta de l Eixample;Barri;2003;;
 l Antiga Esquerra de l Eixample;Barri;2003;;
 la Nova Esquerra de l Eixample;Barri;2003;;
 Sant Antoni;Barri;2003;;
-Sants Montjuic;Districte;2003;7,77;453,74
+Sants-Montjuïc;Districte;2003;7,77;453,74
 el Poble Sec - AEI Parc Montjuic;Barri;2003;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2003;;
 la Marina de Port;Barri;2003;;
@@ -277,20 +277,20 @@ Les Corts;Districte;2003;9,34;667,71
 les Corts;Barri;2003;;
 la Maternitat i Sant Ramon;Barri;2003;;
 Pedralbes;Barri;2003;;
-Sarria - Sant Gervasi;Districte;2003;9,35;762,15
+Sarrià-Sant Gervasi;Districte;2003;9,35;762,15
 Vallvidrera el Tibidabo i les Planes;Barri;2003;;
 Sarria;Barri;2003;;
 les Tres Torres;Barri;2003;;
 Sant Gervasi - la Bonanova;Barri;2003;;
 Sant Gervasi - Galvany;Barri;2003;;
 el Putxet i el Farro;Barri;2003;;
-Gracia;Districte;2003;8,41;507,39
+Gràcia;Districte;2003;8,41;507,39
 Vallcarca i els Penitents;Barri;2003;;
 el Coll;Barri;2003;;
 la Salut;Barri;2003;;
-la Vila de Gracia;Barri;2003;;
-el Camp d en Grassot i Gracia Nova;Barri;2003;;
-Horta - Guinardo;Districte;2003;7,65;463,88
+la Vila de Gràcia;Barri;2003;;
+el Camp d en Grassot i Gràcia Nova;Barri;2003;;
+Horta-Guinardó;Districte;2003;7,65;463,88
 el Baix Guinardo;Barri;2003;;
 Can Baro;Barri;2003;;
 el Guinardo;Barri;2003;;
@@ -324,7 +324,7 @@ Sant Andreu;Barri;2003;;
 la Sagrera;Barri;2003;;
 el Congres i els Indians;Barri;2003;;
 Navas;Barri;2003;;
-Sant Marti;Districte;2003;7,65;484,76
+Sant Martí;Districte;2003;7,65;484,76
 el Camp de l Arpa del Clot;Barri;2003;;
 el Clot;Barri;2003;;
 el Parc i la Llacuna del Poblenou;Barri;2003;;
@@ -333,7 +333,7 @@ el Poblenou;Barri;2003;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2003;;
 el Besos i el Maresme;Barri;2003;;
 Provencals del Poblenou;Barri;2003;;
-Sant Marti de Provencals;Barri;2003;;
+Sant Martí de Provencals;Barri;2003;;
 la Verneda i la Pau;Barri;2003;;
 Barcelona;Municipi;2004;8,68;584,78
 Ciutat Vella;Districte;2004;8,56;469,86
@@ -348,7 +348,7 @@ la Dreta de l Eixample;Barri;2004;;
 l Antiga Esquerra de l Eixample;Barri;2004;;
 la Nova Esquerra de l Eixample;Barri;2004;;
 Sant Antoni;Barri;2004;;
-Sants Montjuic;Districte;2004;8,68;498,79
+Sants-Montjuïc;Districte;2004;8,68;498,79
 el Poble Sec - AEI Parc Montjuic;Barri;2004;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2004;;
 la Marina de Port;Barri;2004;;
@@ -361,20 +361,20 @@ Les Corts;Districte;2004;9,96;705,08
 les Corts;Barri;2004;;
 la Maternitat i Sant Ramon;Barri;2004;;
 Pedralbes;Barri;2004;;
-Sarria - Sant Gervasi;Districte;2004;10,0;823,76
+Sarrià-Sant Gervasi;Districte;2004;10,0;823,76
 Vallvidrera el Tibidabo i les Planes;Barri;2004;;
 Sarria;Barri;2004;;
 les Tres Torres;Barri;2004;;
 Sant Gervasi - la Bonanova;Barri;2004;;
 Sant Gervasi - Galvany;Barri;2004;;
 el Putxet i el Farro;Barri;2004;;
-Gracia;Districte;2004;9,27;548,96
+Gràcia;Districte;2004;9,27;548,96
 Vallcarca i els Penitents;Barri;2004;;
 el Coll;Barri;2004;;
 la Salut;Barri;2004;;
-la Vila de Gracia;Barri;2004;;
-el Camp d en Grassot i Gracia Nova;Barri;2004;;
-Horta - Guinardo;Districte;2004;8,28;501,24
+la Vila de Gràcia;Barri;2004;;
+el Camp d en Grassot i Gràcia Nova;Barri;2004;;
+Horta-Guinardó;Districte;2004;8,28;501,24
 el Baix Guinardo;Barri;2004;;
 Can Baro;Barri;2004;;
 el Guinardo;Barri;2004;;
@@ -408,7 +408,7 @@ Sant Andreu;Barri;2004;;
 la Sagrera;Barri;2004;;
 el Congres i els Indians;Barri;2004;;
 Navas;Barri;2004;;
-Sant Marti;Districte;2004;8,2;531,91
+Sant Martí;Districte;2004;8,2;531,91
 el Camp de l Arpa del Clot;Barri;2004;;
 el Clot;Barri;2004;;
 el Parc i la Llacuna del Poblenou;Barri;2004;;
@@ -417,7 +417,7 @@ el Poblenou;Barri;2004;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2004;;
 el Besos i el Maresme;Barri;2004;;
 Provencals del Poblenou;Barri;2004;;
-Sant Marti de Provencals;Barri;2004;;
+Sant Martí de Provencals;Barri;2004;;
 la Verneda i la Pau;Barri;2004;;
 Barcelona;Municipi;2005;9,64;636,02
 Ciutat Vella;Districte;2005;9,76;539,29
@@ -432,7 +432,7 @@ la Dreta de l Eixample;Barri;2005;;
 l Antiga Esquerra de l Eixample;Barri;2005;;
 la Nova Esquerra de l Eixample;Barri;2005;;
 Sant Antoni;Barri;2005;;
-Sants Montjuic;Districte;2005;9,51;558,73
+Sants-Montjuïc;Districte;2005;9,51;558,73
 el Poble Sec - AEI Parc Montjuic;Barri;2005;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2005;;
 la Marina de Port;Barri;2005;;
@@ -445,20 +445,20 @@ Les Corts;Districte;2005;10,78;742,43
 les Corts;Barri;2005;;
 la Maternitat i Sant Ramon;Barri;2005;;
 Pedralbes;Barri;2005;;
-Sarria - Sant Gervasi;Districte;2005;10,85;863,57
+Sarrià-Sant Gervasi;Districte;2005;10,85;863,57
 Vallvidrera el Tibidabo i les Planes;Barri;2005;;
 Sarria;Barri;2005;;
 les Tres Torres;Barri;2005;;
 Sant Gervasi - la Bonanova;Barri;2005;;
 Sant Gervasi - Galvany;Barri;2005;;
 el Putxet i el Farro;Barri;2005;;
-Gracia;Districte;2005;10,18;620,95
+Gràcia;Districte;2005;10,18;620,95
 Vallcarca i els Penitents;Barri;2005;;
 el Coll;Barri;2005;;
 la Salut;Barri;2005;;
-la Vila de Gracia;Barri;2005;;
-el Camp d en Grassot i Gracia Nova;Barri;2005;;
-Horta - Guinardo;Districte;2005;9,18;552,09
+la Vila de Gràcia;Barri;2005;;
+el Camp d en Grassot i Gràcia Nova;Barri;2005;;
+Horta-Guinardó;Districte;2005;9,18;552,09
 el Baix Guinardo;Barri;2005;;
 Can Baro;Barri;2005;;
 el Guinardo;Barri;2005;;
@@ -492,7 +492,7 @@ Sant Andreu;Barri;2005;;
 la Sagrera;Barri;2005;;
 el Congres i els Indians;Barri;2005;;
 Navas;Barri;2005;;
-Sant Marti;Districte;2005;9,2;605,93
+Sant Martí;Districte;2005;9,2;605,93
 el Camp de l Arpa del Clot;Barri;2005;;
 el Clot;Barri;2005;;
 el Parc i la Llacuna del Poblenou;Barri;2005;;
@@ -501,7 +501,7 @@ el Poblenou;Barri;2005;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2005;;
 el Besos i el Maresme;Barri;2005;;
 Provencals del Poblenou;Barri;2005;;
-Sant Marti de Provencals;Barri;2005;;
+Sant Martí de Provencals;Barri;2005;;
 la Verneda i la Pau;Barri;2005;;
 Barcelona;Municipi;2006;10,56;695,75
 Ciutat Vella;Districte;2006;10,69;597,6
@@ -516,7 +516,7 @@ la Dreta de l Eixample;Barri;2006;;
 l Antiga Esquerra de l Eixample;Barri;2006;;
 la Nova Esquerra de l Eixample;Barri;2006;;
 Sant Antoni;Barri;2006;;
-Sants Montjuic;Districte;2006;10,49;620,93
+Sants-Montjuïc;Districte;2006;10,49;620,93
 el Poble Sec - AEI Parc Montjuic;Barri;2006;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2006;;
 la Marina de Port;Barri;2006;;
@@ -529,20 +529,20 @@ Les Corts;Districte;2006;11,85;829,15
 les Corts;Barri;2006;;
 la Maternitat i Sant Ramon;Barri;2006;;
 Pedralbes;Barri;2006;;
-Sarria - Sant Gervasi;Districte;2006;11,63;917,66
+Sarrià-Sant Gervasi;Districte;2006;11,63;917,66
 Vallvidrera el Tibidabo i les Planes;Barri;2006;;
 Sarria;Barri;2006;;
 les Tres Torres;Barri;2006;;
 Sant Gervasi - la Bonanova;Barri;2006;;
 Sant Gervasi - Galvany;Barri;2006;;
 el Putxet i el Farro;Barri;2006;;
-Gracia;Districte;2006;11,26;668,71
+Gràcia;Districte;2006;11,26;668,71
 Vallcarca i els Penitents;Barri;2006;;
 el Coll;Barri;2006;;
 la Salut;Barri;2006;;
-la Vila de Gracia;Barri;2006;;
-el Camp d en Grassot i Gracia Nova;Barri;2006;;
-Horta - Guinardo;Districte;2006;10,18;630,0
+la Vila de Gràcia;Barri;2006;;
+el Camp d en Grassot i Gràcia Nova;Barri;2006;;
+Horta-Guinardó;Districte;2006;10,18;630,0
 el Baix Guinardo;Barri;2006;;
 Can Baro;Barri;2006;;
 el Guinardo;Barri;2006;;
@@ -576,7 +576,7 @@ Sant Andreu;Barri;2006;;
 la Sagrera;Barri;2006;;
 el Congres i els Indians;Barri;2006;;
 Navas;Barri;2006;;
-Sant Marti;Districte;2006;10,35;682,06
+Sant Martí;Districte;2006;10,35;682,06
 el Camp de l Arpa del Clot;Barri;2006;;
 el Clot;Barri;2006;;
 el Parc i la Llacuna del Poblenou;Barri;2006;;
@@ -585,7 +585,7 @@ el Poblenou;Barri;2006;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2006;;
 el Besos i el Maresme;Barri;2006;;
 Provencals del Poblenou;Barri;2006;;
-Sant Marti de Provencals;Barri;2006;;
+Sant Martí de Provencals;Barri;2006;;
 la Verneda i la Pau;Barri;2006;;
 Barcelona;Municipi;2007;11,54;766,18
 Ciutat Vella;Districte;2007;11,6;660,96
@@ -600,7 +600,7 @@ la Dreta de l Eixample;Barri;2007;;
 l Antiga Esquerra de l Eixample;Barri;2007;;
 la Nova Esquerra de l Eixample;Barri;2007;;
 Sant Antoni;Barri;2007;;
-Sants Montjuic;Districte;2007;11,28;668,85
+Sants-Montjuïc;Districte;2007;11,28;668,85
 el Poble Sec - AEI Parc Montjuic;Barri;2007;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2007;;
 la Marina de Port;Barri;2007;;
@@ -613,20 +613,20 @@ Les Corts;Districte;2007;13,01;955,43
 les Corts;Barri;2007;;
 la Maternitat i Sant Ramon;Barri;2007;;
 Pedralbes;Barri;2007;;
-Sarria - Sant Gervasi;Districte;2007;12,71;1014,24
+Sarrià-Sant Gervasi;Districte;2007;12,71;1014,24
 Vallvidrera el Tibidabo i les Planes;Barri;2007;;
 Sarria;Barri;2007;;
 les Tres Torres;Barri;2007;;
 Sant Gervasi - la Bonanova;Barri;2007;;
 Sant Gervasi - Galvany;Barri;2007;;
 el Putxet i el Farro;Barri;2007;;
-Gracia;Districte;2007;12,45;741,59
+Gràcia;Districte;2007;12,45;741,59
 Vallcarca i els Penitents;Barri;2007;;
 el Coll;Barri;2007;;
 la Salut;Barri;2007;;
-la Vila de Gracia;Barri;2007;;
-el Camp d en Grassot i Gracia Nova;Barri;2007;;
-Horta - Guinardo;Districte;2007;11,08;660,29
+la Vila de Gràcia;Barri;2007;;
+el Camp d en Grassot i Gràcia Nova;Barri;2007;;
+Horta-Guinardó;Districte;2007;11,08;660,29
 el Baix Guinardo;Barri;2007;;
 Can Baro;Barri;2007;;
 el Guinardo;Barri;2007;;
@@ -660,7 +660,7 @@ Sant Andreu;Barri;2007;;
 la Sagrera;Barri;2007;;
 el Congres i els Indians;Barri;2007;;
 Navas;Barri;2007;;
-Sant Marti;Districte;2007;11,21;730,62
+Sant Martí;Districte;2007;11,21;730,62
 el Camp de l Arpa del Clot;Barri;2007;;
 el Clot;Barri;2007;;
 el Parc i la Llacuna del Poblenou;Barri;2007;;
@@ -669,7 +669,7 @@ el Poblenou;Barri;2007;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2007;;
 el Besos i el Maresme;Barri;2007;;
 Provencals del Poblenou;Barri;2007;;
-Sant Marti de Provencals;Barri;2007;;
+Sant Martí de Provencals;Barri;2007;;
 la Verneda i la Pau;Barri;2007;;
 Barcelona;Municipi;2008;12,24;813,02
 Ciutat Vella;Districte;2008;12,57;729,59
@@ -684,7 +684,7 @@ la Dreta de l Eixample;Barri;2008;;
 l Antiga Esquerra de l Eixample;Barri;2008;;
 la Nova Esquerra de l Eixample;Barri;2008;;
 Sant Antoni;Barri;2008;;
-Sants Montjuic;Districte;2008;12,22;725,94
+Sants-Montjuïc;Districte;2008;12,22;725,94
 el Poble Sec - AEI Parc Montjuic;Barri;2008;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2008;;
 la Marina de Port;Barri;2008;;
@@ -697,20 +697,20 @@ Les Corts;Districte;2008;13,38;990,58
 les Corts;Barri;2008;;
 la Maternitat i Sant Ramon;Barri;2008;;
 Pedralbes;Barri;2008;;
-Sarria - Sant Gervasi;Districte;2008;13,29;1081,91
+Sarrià-Sant Gervasi;Districte;2008;13,29;1081,91
 Vallvidrera el Tibidabo i les Planes;Barri;2008;;
 Sarria;Barri;2008;;
 les Tres Torres;Barri;2008;;
 Sant Gervasi - la Bonanova;Barri;2008;;
 Sant Gervasi - Galvany;Barri;2008;;
 el Putxet i el Farro;Barri;2008;;
-Gracia;Districte;2008;13,02;792,07
+Gràcia;Districte;2008;13,02;792,07
 Vallcarca i els Penitents;Barri;2008;;
 el Coll;Barri;2008;;
 la Salut;Barri;2008;;
-la Vila de Gracia;Barri;2008;;
-el Camp d en Grassot i Gracia Nova;Barri;2008;;
-Horta - Guinardo;Districte;2008;12,04;718,36
+la Vila de Gràcia;Barri;2008;;
+el Camp d en Grassot i Gràcia Nova;Barri;2008;;
+Horta-Guinardó;Districte;2008;12,04;718,36
 el Baix Guinardo;Barri;2008;;
 Can Baro;Barri;2008;;
 el Guinardo;Barri;2008;;
@@ -744,7 +744,7 @@ Sant Andreu;Barri;2008;;
 la Sagrera;Barri;2008;;
 el Congres i els Indians;Barri;2008;;
 Navas;Barri;2008;;
-Sant Marti;Districte;2008;11,84;770,16
+Sant Martí;Districte;2008;11,84;770,16
 el Camp de l Arpa del Clot;Barri;2008;;
 el Clot;Barri;2008;;
 el Parc i la Llacuna del Poblenou;Barri;2008;;
@@ -753,7 +753,7 @@ el Poblenou;Barri;2008;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2008;;
 el Besos i el Maresme;Barri;2008;;
 Provencals del Poblenou;Barri;2008;;
-Sant Marti de Provencals;Barri;2008;;
+Sant Martí de Provencals;Barri;2008;;
 la Verneda i la Pau;Barri;2008;;
 Barcelona;Municipi;2009;11,92;792,89
 Ciutat Vella;Districte;2009;12,42;715,68
@@ -768,7 +768,7 @@ la Dreta de l Eixample;Barri;2009;;
 l Antiga Esquerra de l Eixample;Barri;2009;;
 la Nova Esquerra de l Eixample;Barri;2009;;
 Sant Antoni;Barri;2009;;
-Sants Montjuic;Districte;2009;11,91;698,86
+Sants-Montjuïc;Districte;2009;11,91;698,86
 el Poble Sec - AEI Parc Montjuic;Barri;2009;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2009;;
 la Marina de Port;Barri;2009;;
@@ -781,20 +781,20 @@ Les Corts;Districte;2009;12,91;933,72
 les Corts;Barri;2009;;
 la Maternitat i Sant Ramon;Barri;2009;;
 Pedralbes;Barri;2009;;
-Sarria - Sant Gervasi;Districte;2009;12,85;1029,3
+Sarrià-Sant Gervasi;Districte;2009;12,85;1029,3
 Vallvidrera el Tibidabo i les Planes;Barri;2009;;
 Sarria;Barri;2009;;
 les Tres Torres;Barri;2009;;
 Sant Gervasi - la Bonanova;Barri;2009;;
 Sant Gervasi - Galvany;Barri;2009;;
 el Putxet i el Farro;Barri;2009;;
-Gracia;Districte;2009;12,81;762,28
+Gràcia;Districte;2009;12,81;762,28
 Vallcarca i els Penitents;Barri;2009;;
 el Coll;Barri;2009;;
 la Salut;Barri;2009;;
-la Vila de Gracia;Barri;2009;;
-el Camp d en Grassot i Gracia Nova;Barri;2009;;
-Horta - Guinardo;Districte;2009;11,39;689,68
+la Vila de Gràcia;Barri;2009;;
+el Camp d en Grassot i Gràcia Nova;Barri;2009;;
+Horta-Guinardó;Districte;2009;11,39;689,68
 el Baix Guinardo;Barri;2009;;
 Can Baro;Barri;2009;;
 el Guinardo;Barri;2009;;
@@ -828,7 +828,7 @@ Sant Andreu;Barri;2009;;
 la Sagrera;Barri;2009;;
 el Congres i els Indians;Barri;2009;;
 Navas;Barri;2009;;
-Sant Marti;Districte;2009;11,59;738,26
+Sant Martí;Districte;2009;11,59;738,26
 el Camp de l Arpa del Clot;Barri;2009;;
 el Clot;Barri;2009;;
 el Parc i la Llacuna del Poblenou;Barri;2009;;
@@ -837,7 +837,7 @@ el Poblenou;Barri;2009;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2009;;
 el Besos i el Maresme;Barri;2009;;
 Provencals del Poblenou;Barri;2009;;
-Sant Marti de Provencals;Barri;2009;;
+Sant Martí de Provencals;Barri;2009;;
 la Verneda i la Pau;Barri;2009;;
 Barcelona;Municipi;2010;11,6;761,87
 Ciutat Vella;Districte;2010;12,07;678,79
@@ -852,7 +852,7 @@ la Dreta de l Eixample;Barri;2010;;
 l Antiga Esquerra de l Eixample;Barri;2010;;
 la Nova Esquerra de l Eixample;Barri;2010;;
 Sant Antoni;Barri;2010;;
-Sants Montjuic;Districte;2010;11,55;671,91
+Sants-Montjuïc;Districte;2010;11,55;671,91
 el Poble Sec - AEI Parc Montjuic;Barri;2010;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2010;;
 la Marina de Port;Barri;2010;;
@@ -865,20 +865,20 @@ Les Corts;Districte;2010;12,31;908,94
 les Corts;Barri;2010;;
 la Maternitat i Sant Ramon;Barri;2010;;
 Pedralbes;Barri;2010;;
-Sarria - Sant Gervasi;Districte;2010;12,81;998,61
+Sarrià-Sant Gervasi;Districte;2010;12,81;998,61
 Vallvidrera el Tibidabo i les Planes;Barri;2010;;
 Sarria;Barri;2010;;
 les Tres Torres;Barri;2010;;
 Sant Gervasi - la Bonanova;Barri;2010;;
 Sant Gervasi - Galvany;Barri;2010;;
 el Putxet i el Farro;Barri;2010;;
-Gracia;Districte;2010;12,57;738,73
+Gràcia;Districte;2010;12,57;738,73
 Vallcarca i els Penitents;Barri;2010;;
 el Coll;Barri;2010;;
 la Salut;Barri;2010;;
-la Vila de Gracia;Barri;2010;;
-el Camp d en Grassot i Gracia Nova;Barri;2010;;
-Horta - Guinardo;Districte;2010;10,8;652,11
+la Vila de Gràcia;Barri;2010;;
+el Camp d en Grassot i Gràcia Nova;Barri;2010;;
+Horta-Guinardó;Districte;2010;10,8;652,11
 el Baix Guinardo;Barri;2010;;
 Can Baro;Barri;2010;;
 el Guinardo;Barri;2010;;
@@ -912,7 +912,7 @@ Sant Andreu;Barri;2010;;
 la Sagrera;Barri;2010;;
 el Congres i els Indians;Barri;2010;;
 Navas;Barri;2010;;
-Sant Marti;Districte;2010;11,23;727,5
+Sant Martí;Districte;2010;11,23;727,5
 el Camp de l Arpa del Clot;Barri;2010;;
 el Clot;Barri;2010;;
 el Parc i la Llacuna del Poblenou;Barri;2010;;
@@ -921,7 +921,7 @@ el Poblenou;Barri;2010;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2010;;
 el Besos i el Maresme;Barri;2010;;
 Provencals del Poblenou;Barri;2010;;
-Sant Marti de Provencals;Barri;2010;;
+Sant Martí de Provencals;Barri;2010;;
 la Verneda i la Pau;Barri;2010;;
 Barcelona;Municipi;2011;11,38;752,86
 Ciutat Vella;Districte;2011;12,05;663,02
@@ -936,7 +936,7 @@ la Dreta de l Eixample;Barri;2011;;
 l Antiga Esquerra de l Eixample;Barri;2011;;
 la Nova Esquerra de l Eixample;Barri;2011;;
 Sant Antoni;Barri;2011;;
-Sants Montjuic;Districte;2011;11,3;671,6
+Sants-Montjuïc;Districte;2011;11,3;671,6
 el Poble Sec - AEI Parc Montjuic;Barri;2011;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2011;;
 la Marina de Port;Barri;2011;;
@@ -949,20 +949,20 @@ Les Corts;Districte;2011;12,12;891,45
 les Corts;Barri;2011;;
 la Maternitat i Sant Ramon;Barri;2011;;
 Pedralbes;Barri;2011;;
-Sarria - Sant Gervasi;Districte;2011;12,79;1017,11
+Sarrià-Sant Gervasi;Districte;2011;12,79;1017,11
 Vallvidrera el Tibidabo i les Planes;Barri;2011;;
 Sarria;Barri;2011;;
 les Tres Torres;Barri;2011;;
 Sant Gervasi - la Bonanova;Barri;2011;;
 Sant Gervasi - Galvany;Barri;2011;;
 el Putxet i el Farro;Barri;2011;;
-Gracia;Districte;2011;12,03;737,05
+Gràcia;Districte;2011;12,03;737,05
 Vallcarca i els Penitents;Barri;2011;;
 el Coll;Barri;2011;;
 la Salut;Barri;2011;;
-la Vila de Gracia;Barri;2011;;
-el Camp d en Grassot i Gracia Nova;Barri;2011;;
-Horta - Guinardo;Districte;2011;10,57;636,73
+la Vila de Gràcia;Barri;2011;;
+el Camp d en Grassot i Gràcia Nova;Barri;2011;;
+Horta-Guinardó;Districte;2011;10,57;636,73
 el Baix Guinardo;Barri;2011;;
 Can Baro;Barri;2011;;
 el Guinardo;Barri;2011;;
@@ -996,7 +996,7 @@ Sant Andreu;Barri;2011;;
 la Sagrera;Barri;2011;;
 el Congres i els Indians;Barri;2011;;
 Navas;Barri;2011;;
-Sant Marti;Districte;2011;10,9;705,39
+Sant Martí;Districte;2011;10,9;705,39
 el Camp de l Arpa del Clot;Barri;2011;;
 el Clot;Barri;2011;;
 el Parc i la Llacuna del Poblenou;Barri;2011;;
@@ -1005,7 +1005,7 @@ el Poblenou;Barri;2011;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2011;;
 el Besos i el Maresme;Barri;2011;;
 Provencals del Poblenou;Barri;2011;;
-Sant Marti de Provencals;Barri;2011;;
+Sant Martí de Provencals;Barri;2011;;
 la Verneda i la Pau;Barri;2011;;
 Barcelona;Municipi;2012;10,84;720,13
 Ciutat Vella;Districte;2012;11,66;644,15
@@ -1020,7 +1020,7 @@ la Dreta de l Eixample;Barri;2012;;
 l Antiga Esquerra de l Eixample;Barri;2012;;
 la Nova Esquerra de l Eixample;Barri;2012;;
 Sant Antoni;Barri;2012;;
-Sants Montjuic;Districte;2012;10,76;633,08
+Sants-Montjuïc;Districte;2012;10,76;633,08
 el Poble Sec - AEI Parc Montjuic;Barri;2012;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2012;;
 la Marina de Port;Barri;2012;;
@@ -1033,20 +1033,20 @@ Les Corts;Districte;2012;11,62;867,36
 les Corts;Barri;2012;;
 la Maternitat i Sant Ramon;Barri;2012;;
 Pedralbes;Barri;2012;;
-Sarria - Sant Gervasi;Districte;2012;12,27;984,44
+Sarrià-Sant Gervasi;Districte;2012;12,27;984,44
 Vallvidrera el Tibidabo i les Planes;Barri;2012;;
 Sarria;Barri;2012;;
 les Tres Torres;Barri;2012;;
 Sant Gervasi - la Bonanova;Barri;2012;;
 Sant Gervasi - Galvany;Barri;2012;;
 el Putxet i el Farro;Barri;2012;;
-Gracia;Districte;2012;11,39;706,6
+Gràcia;Districte;2012;11,39;706,6
 Vallcarca i els Penitents;Barri;2012;;
 el Coll;Barri;2012;;
 la Salut;Barri;2012;;
-la Vila de Gracia;Barri;2012;;
-el Camp d en Grassot i Gracia Nova;Barri;2012;;
-Horta - Guinardo;Districte;2012;10,1;605,92
+la Vila de Gràcia;Barri;2012;;
+el Camp d en Grassot i Gràcia Nova;Barri;2012;;
+Horta-Guinardó;Districte;2012;10,1;605,92
 el Baix Guinardo;Barri;2012;;
 Can Baro;Barri;2012;;
 el Guinardo;Barri;2012;;
@@ -1080,7 +1080,7 @@ Sant Andreu;Barri;2012;;
 la Sagrera;Barri;2012;;
 el Congres i els Indians;Barri;2012;;
 Navas;Barri;2012;;
-Sant Marti;Districte;2012;10,48;673,6
+Sant Martí;Districte;2012;10,48;673,6
 el Camp de l Arpa del Clot;Barri;2012;;
 el Clot;Barri;2012;;
 el Parc i la Llacuna del Poblenou;Barri;2012;;
@@ -1089,7 +1089,7 @@ el Poblenou;Barri;2012;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2012;;
 el Besos i el Maresme;Barri;2012;;
 Provencals del Poblenou;Barri;2012;;
-Sant Marti de Provencals;Barri;2012;;
+Sant Martí de Provencals;Barri;2012;;
 la Verneda i la Pau;Barri;2012;;
 Barcelona;Municipi;2013;10,29;681,56
 Ciutat Vella;Districte;2013;11,38;618,67
@@ -1104,7 +1104,7 @@ la Dreta de l Eixample;Barri;2013;;
 l Antiga Esquerra de l Eixample;Barri;2013;;
 la Nova Esquerra de l Eixample;Barri;2013;;
 Sant Antoni;Barri;2013;;
-Sants Montjuic;Districte;2013;10,1;596,42
+Sants-Montjuïc;Districte;2013;10,1;596,42
 el Poble Sec - AEI Parc Montjuic;Barri;2013;;
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2013;;
 la Marina de Port;Barri;2013;;
@@ -1117,20 +1117,20 @@ Les Corts;Districte;2013;11,18;826,71
 les Corts;Barri;2013;;
 la Maternitat i Sant Ramon;Barri;2013;;
 Pedralbes;Barri;2013;;
-Sarria - Sant Gervasi;Districte;2013;11,72;935,47
+Sarrià-Sant Gervasi;Districte;2013;11,72;935,47
 Vallvidrera el Tibidabo i les Planes;Barri;2013;;
 Sarria;Barri;2013;;
 les Tres Torres;Barri;2013;;
 Sant Gervasi - la Bonanova;Barri;2013;;
 Sant Gervasi - Galvany;Barri;2013;;
 el Putxet i el Farro;Barri;2013;;
-Gracia;Districte;2013;10,95;659,25
+Gràcia;Districte;2013;10,95;659,25
 Vallcarca i els Penitents;Barri;2013;;
 el Coll;Barri;2013;;
 la Salut;Barri;2013;;
-la Vila de Gracia;Barri;2013;;
-el Camp d en Grassot i Gracia Nova;Barri;2013;;
-Horta - Guinardo;Districte;2013;9,32;566,51
+la Vila de Gràcia;Barri;2013;;
+el Camp d en Grassot i Gràcia Nova;Barri;2013;;
+Horta-Guinardó;Districte;2013;9,32;566,51
 el Baix Guinardo;Barri;2013;;
 Can Baro;Barri;2013;;
 el Guinardo;Barri;2013;;
@@ -1164,7 +1164,7 @@ Sant Andreu;Barri;2013;;
 la Sagrera;Barri;2013;;
 el Congres i els Indians;Barri;2013;;
 Navas;Barri;2013;;
-Sant Marti;Districte;2013;9,87;637,39
+Sant Martí;Districte;2013;9,87;637,39
 el Camp de l Arpa del Clot;Barri;2013;;
 el Clot;Barri;2013;;
 el Parc i la Llacuna del Poblenou;Barri;2013;;
@@ -1173,7 +1173,7 @@ el Poblenou;Barri;2013;;
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2013;;
 el Besos i el Maresme;Barri;2013;;
 Provencals del Poblenou;Barri;2013;;
-Sant Marti de Provencals;Barri;2013;;
+Sant Martí de Provencals;Barri;2013;;
 la Verneda i la Pau;Barri;2013;;
 Barcelona;Municipi;2014;10,16;688,23
 Ciutat Vella;Districte;2014;11,38;639,11
@@ -1188,7 +1188,7 @@ la Dreta de l Eixample;Barri;2014;10,06;945,88
 l Antiga Esquerra de l Eixample;Barri;2014;10,48;843,86
 la Nova Esquerra de l Eixample;Barri;2014;10,42;732,13
 Sant Antoni;Barri;2014;10,01;711,37
-Sants Montjuic;Districte;2014;9,89;598,43
+Sants-Montjuïc;Districte;2014;9,89;598,43
 el Poble Sec - AEI Parc Montjuic;Barri;2014;10,19;582,6
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2014;5,36;450,0
 la Marina de Port;Barri;2014;7,99;527,28
@@ -1201,20 +1201,20 @@ Les Corts;Districte;2014;11,01;853,0
 les Corts;Barri;2014;11,07;782,88
 la Maternitat i Sant Ramon;Barri;2014;10,38;760,26
 Pedralbes;Barri;2014;12,33;1473,83
-Sarria - Sant Gervasi;Districte;2014;11,86;978,02
+Sarrià-Sant Gervasi;Districte;2014;11,86;978,02
 Vallvidrera el Tibidabo i les Planes;Barri;2014;10,6;1134,25
 Sarria;Barri;2014;13,59;1041,15
 les Tres Torres;Barri;2014;13,52;1323,89
 Sant Gervasi - la Bonanova;Barri;2014;11,55;942,56
 Sant Gervasi - Galvany;Barri;2014;11,69;1047,42
 el Putxet i el Farro;Barri;2014;11,01;760,35
-Gracia;Districte;2014;10,77;673,86
+Gràcia;Districte;2014;10,77;673,86
 Vallcarca i els Penitents;Barri;2014;10,26;665,48
 el Coll;Barri;2014;9,52;555,87
 la Salut;Barri;2014;9,97;668,51
-la Vila de Gracia;Barri;2014;11,25;681,71
-el Camp d en Grassot i Gracia Nova;Barri;2014;10,36;683,32
-Horta - Guinardo;Districte;2014;9,03;563,76
+la Vila de Gràcia;Barri;2014;11,25;681,71
+el Camp d en Grassot i Gràcia Nova;Barri;2014;10,36;683,32
+Horta-Guinardó;Districte;2014;9,03;563,76
 el Baix Guinardo;Barri;2014;9,56;620,97
 Can Baro;Barri;2014;9,42;542,72
 el Guinardo;Barri;2014;9,18;581,39
@@ -1248,7 +1248,7 @@ Sant Andreu;Barri;2014;9,19;576,6
 la Sagrera;Barri;2014;9,05;607,04
 el Congres i els Indians;Barri;2014;9,24;583,67
 Navas;Barri;2014;8,91;623,78
-Sant Marti;Districte;2014;9,75;640,81
+Sant Martí;Districte;2014;9,75;640,81
 el Camp de l Arpa del Clot;Barri;2014;9,74;598,82
 el Clot;Barri;2014;9,63;624,84
 el Parc i la Llacuna del Poblenou;Barri;2014;10,24;693,72
@@ -1257,7 +1257,7 @@ el Poblenou;Barri;2014;10,57;654,35
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2014;11,18;892,03
 el Besos i el Maresme;Barri;2014;7,74;477,06
 Provencals del Poblenou;Barri;2014;9,67;639,55
-Sant Marti de Provencals;Barri;2014;8,88;633,78
+Sant Martí de Provencals;Barri;2014;8,88;633,78
 la Verneda i la Pau;Barri;2014;8,32;565,47
 Barcelona;Municipi;2015;11,09;734,94
 Ciutat Vella;Districte;2015;12,45;675,74
@@ -1272,7 +1272,7 @@ la Dreta de l Eixample;Barri;2015;11,29;1012,51
 l Antiga Esquerra de l Eixample;Barri;2015;11,37;911,14
 la Nova Esquerra de l Eixample;Barri;2015;11,27;783,84
 Sant Antoni;Barri;2015;10,96;765,61
-Sants Montjuic;Districte;2015;10,66;624,52
+Sants-Montjuïc;Districte;2015;10,66;624,52
 el Poble Sec - AEI Parc Montjuic;Barri;2015;11,09;612,15
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2015;6,61;404,71
 la Marina de Port;Barri;2015;8,36;542,27
@@ -1285,20 +1285,20 @@ Les Corts;Districte;2015;11,97;925,45
 les Corts;Barri;2015;11,85;856,34
 la Maternitat i Sant Ramon;Barri;2015;11,42;756,62
 Pedralbes;Barri;2015;14,15;1729,95
-Sarria - Sant Gervasi;Districte;2015;12,96;1051,23
+Sarrià-Sant Gervasi;Districte;2015;12,96;1051,23
 Vallvidrera el Tibidabo i les Planes;Barri;2015;12,1;1006,53
 Sarria;Barri;2015;14,54;1109,66
 les Tres Torres;Barri;2015;13,97;1385,04
 Sant Gervasi - la Bonanova;Barri;2015;12,82;1046,44
 Sant Gervasi - Galvany;Barri;2015;12,73;1156,26
 el Putxet i el Farro;Barri;2015;12,33;799,69
-Gracia;Districte;2015;11,82;721,65
+Gràcia;Districte;2015;11,82;721,65
 Vallcarca i els Penitents;Barri;2015;11,55;735,76
 el Coll;Barri;2015;9,9;557,0
 la Salut;Barri;2015;11,28;705,21
-la Vila de Gracia;Barri;2015;12,3;733,12
-el Camp d en Grassot i Gracia Nova;Barri;2015;11,33;725,4
-Horta - Guinardo;Districte;2015;9,92;586,85
+la Vila de Gràcia;Barri;2015;12,3;733,12
+el Camp d en Grassot i Gràcia Nova;Barri;2015;11,33;725,4
+Horta-Guinardó;Districte;2015;9,92;586,85
 el Baix Guinardo;Barri;2015;10,57;642,64
 Can Baro;Barri;2015;10,09;553,97
 el Guinardo;Barri;2015;10,36;612,9
@@ -1332,7 +1332,7 @@ Sant Andreu;Barri;2015;10,03;613,34
 la Sagrera;Barri;2015;9,73;636,6
 el Congres i els Indians;Barri;2015;9,45;610,94
 Navas;Barri;2015;9,73;672,02
-Sant Marti;Districte;2015;10,64;700,56
+Sant Martí;Districte;2015;10,64;700,56
 el Camp de l Arpa del Clot;Barri;2015;10,63;644,01
 el Clot;Barri;2015;10,31;651,6
 el Parc i la Llacuna del Poblenou;Barri;2015;11,49;748,85
@@ -1341,7 +1341,7 @@ el Poblenou;Barri;2015;11,73;735,04
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2015;12,49;1059,75
 el Besos i el Maresme;Barri;2015;8,38;506,71
 Provencals del Poblenou;Barri;2015;9,96;661,38
-Sant Marti de Provencals;Barri;2015;9,4;673,92
+Sant Martí de Provencals;Barri;2015;9,4;673,92
 la Verneda i la Pau;Barri;2015;9,1;610,72
 Barcelona;Municipi;2016;12,22;801,28
 Ciutat Vella;Districte;2016;13,9;739,23
@@ -1356,7 +1356,7 @@ la Dreta de l Eixample;Barri;2016;12,86;1138,08
 l Antiga Esquerra de l Eixample;Barri;2016;12,73;979,2
 la Nova Esquerra de l Eixample;Barri;2016;12,37;870,48
 Sant Antoni;Barri;2016;12,08;842,47
-Sants Montjuic;Districte;2016;11,66;678,78
+Sants-Montjuïc;Districte;2016;11,66;678,78
 el Poble Sec - AEI Parc Montjuic;Barri;2016;12,28;669,53
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2016;5,87;356,56
 la Marina de Port;Barri;2016;8,87;544,38
@@ -1369,20 +1369,20 @@ Les Corts;Districte;2016;13,17;985,94
 les Corts;Barri;2016;13,04;939,1
 la Maternitat i Sant Ramon;Barri;2016;12,91;847,88
 Pedralbes;Barri;2016;14,65;1661,83
-Sarria - Sant Gervasi;Districte;2016;14,31;1144,71
+Sarrià-Sant Gervasi;Districte;2016;14,31;1144,71
 Vallvidrera el Tibidabo i les Planes;Barri;2016;15,08;1153,38
 Sarria;Barri;2016;15,94;1187,49
 les Tres Torres;Barri;2016;15,64;1515,0
 Sant Gervasi - la Bonanova;Barri;2016;14,22;1125,32
 Sant Gervasi - Galvany;Barri;2016;13,78;1241,82
 el Putxet i el Farro;Barri;2016;13,73;876,64
-Gracia;Districte;2016;12,95;787,86
+Gràcia;Districte;2016;12,95;787,86
 Vallcarca i els Penitents;Barri;2016;12,65;787,7
 el Coll;Barri;2016;11,23;620,03
 la Salut;Barri;2016;12,11;773,44
-la Vila de Gracia;Barri;2016;13,5;799,64
-el Camp d en Grassot i Gracia Nova;Barri;2016;12,48;803,49
-Horta - Guinardo;Districte;2016;10,73;640,15
+la Vila de Gràcia;Barri;2016;13,5;799,64
+el Camp d en Grassot i Gràcia Nova;Barri;2016;12,48;803,49
+Horta-Guinardó;Districte;2016;10,73;640,15
 el Baix Guinardo;Barri;2016;11,43;701,99
 Can Baro;Barri;2016;11,5;636,75
 el Guinardo;Barri;2016;11,14;666,44
@@ -1416,7 +1416,7 @@ Sant Andreu;Barri;2016;10,9;658,6
 la Sagrera;Barri;2016;10,49;665,59
 el Congres i els Indians;Barri;2016;10,39;649,67
 Navas;Barri;2016;10,81;714,1
-Sant Marti;Districte;2016;11,74;771,41
+Sant Martí;Districte;2016;11,74;771,41
 el Camp de l Arpa del Clot;Barri;2016;11,71;697,99
 el Clot;Barri;2016;11,19;695,55
 el Parc i la Llacuna del Poblenou;Barri;2016;12,79;823,6
@@ -1425,7 +1425,7 @@ el Poblenou;Barri;2016;12,79;794,11
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2016;13,87;1124,8
 el Besos i el Maresme;Barri;2016;8,77;541,25
 Provencals del Poblenou;Barri;2016;11,78;839,8
-Sant Marti de Provencals;Barri;2016;9,97;700,75
+Sant Martí de Provencals;Barri;2016;9,97;700,75
 la Verneda i la Pau;Barri;2016;9,11;605,56
 Barcelona;Municipi;2017;13,36;877,28
 Ciutat Vella;Districte;2017;15,46;828,79
@@ -1440,7 +1440,7 @@ la Dreta de l Eixample;Barri;2017;13,54;1195,23
 l Antiga Esquerra de l Eixample;Barri;2017;13,73;1060,03
 la Nova Esquerra de l Eixample;Barri;2017;13,55;943,23
 Sant Antoni;Barri;2017;13,02;900,48
-Sants Montjuic;Districte;2017;12,92;763,17
+Sants-Montjuïc;Districte;2017;12,92;763,17
 el Poble Sec - AEI Parc Montjuic;Barri;2017;13,69;749,52
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2017;;
 la Marina de Port;Barri;2017;10,36;691,42
@@ -1453,20 +1453,20 @@ Les Corts;Districte;2017;14,22;1052,3
 les Corts;Barri;2017;14,33;1002,47
 la Maternitat i Sant Ramon;Barri;2017;13,37;925,16
 Pedralbes;Barri;2017;16,21;1785,63
-Sarria - Sant Gervasi;Districte;2017;15,43;1227,89
+Sarrià-Sant Gervasi;Districte;2017;15,43;1227,89
 Vallvidrera el Tibidabo i les Planes;Barri;2017;16,58;1220,0
 Sarria;Barri;2017;17,51;1353,86
 les Tres Torres;Barri;2017;16,88;1634,12
 Sant Gervasi - la Bonanova;Barri;2017;15,38;1236,68
 Sant Gervasi - Galvany;Barri;2017;14,61;1311,47
 el Putxet i el Farro;Barri;2017;14,88;930,19
-Gracia;Districte;2017;14,25;856,42
+Gràcia;Districte;2017;14,25;856,42
 Vallcarca i els Penitents;Barri;2017;14,11;910,93
 el Coll;Barri;2017;12,45;724,94
 la Salut;Barri;2017;12,34;799,97
-la Vila de Gracia;Barri;2017;15,01;860,63
-el Camp d en Grassot i Gracia Nova;Barri;2017;13,57;864,07
-Horta - Guinardo;Districte;2017;11,88;706,63
+la Vila de Gràcia;Barri;2017;15,01;860,63
+el Camp d en Grassot i Gràcia Nova;Barri;2017;13,57;864,07
+Horta-Guinardó;Districte;2017;11,88;706,63
 el Baix Guinardo;Barri;2017;12,59;770,94
 Can Baro;Barri;2017;12,42;686,96
 el Guinardo;Barri;2017;12,28;736,91
@@ -1500,7 +1500,7 @@ Sant Andreu;Barri;2017;12,33;733,94
 la Sagrera;Barri;2017;10,84;667,56
 el Congres i els Indians;Barri;2017;11,37;730,84
 Navas;Barri;2017;11,47;777,64
-Sant Marti;Districte;2017;12,9;842,33
+Sant Martí;Districte;2017;12,9;842,33
 el Camp de l Arpa del Clot;Barri;2017;12,95;778,14
 el Clot;Barri;2017;12,45;767,51
 el Parc i la Llacuna del Poblenou;Barri;2017;13,76;893,67
@@ -1509,7 +1509,7 @@ el Poblenou;Barri;2017;13,97;900,22
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2017;16,03;1092,06
 el Besos i el Maresme;Barri;2017;10,03;613,03
 Provencals del Poblenou;Barri;2017;12,94;932,02
-Sant Marti de Provencals;Barri;2017;10,9;765,22
+Sant Martí de Provencals;Barri;2017;10,9;765,22
 la Verneda i la Pau;Barri;2017;10,16;688,63
 Barcelona;Municipi;2018;13,42;929,57
 Ciutat Vella;Districte;2018;14,46;914,04
@@ -1524,7 +1524,7 @@ la Dreta de l Eixample;Barri;2018;13,96;1254,59
 l Antiga Esquerra de l Eixample;Barri;2018;14,05;1113,08
 la Nova Esquerra de l Eixample;Barri;2018;13,92;987,65
 Sant Antoni;Barri;2018;13,17;934,34
-Sants Montjuic;Districte;2018;13,01;803,74
+Sants-Montjuïc;Districte;2018;13,01;803,74
 el Poble Sec - AEI Parc Montjuic;Barri;2018;13,85;801,81
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2018;;
 la Marina de Port;Barri;2018;10,58;751,06
@@ -1537,20 +1537,20 @@ Les Corts;Districte;2018;14,52;1089,53
 les Corts;Barri;2018;14,84;1039,61
 la Maternitat i Sant Ramon;Barri;2018;13,59;973,55
 Pedralbes;Barri;2018;15,35;1739,6
-Sarria - Sant Gervasi;Districte;2018;15,44;1268,92
+Sarrià-Sant Gervasi;Districte;2018;15,44;1268,92
 Vallvidrera el Tibidabo i les Planes;Barri;2018;11,93;937,55
 Sarria;Barri;2018;17,25;1368,51
 les Tres Torres;Barri;2018;16,43;1599,89
 Sant Gervasi - la Bonanova;Barri;2018;16,1;1285,61
 Sant Gervasi - Galvany;Barri;2018;14,79;1347,84
 el Putxet i el Farro;Barri;2018;14,62;995,37
-Gracia;Districte;2018;14,04;904,53
+Gràcia;Districte;2018;14,04;904,53
 Vallcarca i els Penitents;Barri;2018;13,61;925,02
 el Coll;Barri;2018;12,17;740,36
 la Salut;Barri;2018;12,84;877,3
-la Vila de Gracia;Barri;2018;14,6;915,88
-el Camp d en Grassot i Gracia Nova;Barri;2018;13,82;908,89
-Horta - Guinardo;Districte;2018;11,87;746,16
+la Vila de Gràcia;Barri;2018;14,6;915,88
+el Camp d en Grassot i Gràcia Nova;Barri;2018;13,82;908,89
+Horta-Guinardó;Districte;2018;11,87;746,16
 el Baix Guinardo;Barri;2018;12,66;828,8
 Can Baro;Barri;2018;12,15;738,12
 el Guinardo;Barri;2018;12,07;771,48
@@ -1584,7 +1584,7 @@ Sant Andreu;Barri;2018;11,91;764,83
 la Sagrera;Barri;2018;11,92;780,89
 el Congres i els Indians;Barri;2018;11,93;774,38
 Navas;Barri;2018;12,03;813,23
-Sant Marti;Districte;2018;13,21;884,51
+Sant Martí;Districte;2018;13,21;884,51
 el Camp de l Arpa del Clot;Barri;2018;13,03;818,66
 el Clot;Barri;2018;12,55;808,9
 el Parc i la Llacuna del Poblenou;Barri;2018;13,96;995,22
@@ -1593,7 +1593,7 @@ el Poblenou;Barri;2018;14,46;961,73
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2018;15,27;1085,34
 el Besos i el Maresme;Barri;2018;10,95;685,56
 Provencals del Poblenou;Barri;2018;13,63;948,8
-Sant Marti de Provencals;Barri;2018;11,5;792,68
+Sant Martí de Provencals;Barri;2018;11,5;792,68
 la Verneda i la Pau;Barri;2018;11,19;740,92
 Barcelona;Municipi;2019;13,98;978,81
 Ciutat Vella;Districte;2019;14,77;945,53
@@ -1608,7 +1608,7 @@ la Dreta de l Eixample;Barri;2019;14,4;1307,62
 l Antiga Esquerra de l Eixample;Barri;2019;14,48;1162,32
 la Nova Esquerra de l Eixample;Barri;2019;14,52;1053,83
 Sant Antoni;Barri;2019;13,85;994,91
-Sants Montjuic;Districte;2019;13,49;841,49
+Sants-Montjuïc;Districte;2019;13,49;841,49
 el Poble Sec - AEI Parc Montjuic;Barri;2019;14,36;837,05
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2019;7,1;374,35
 la Marina de Port;Barri;2019;10,83;766,25
@@ -1621,20 +1621,20 @@ Les Corts;Districte;2019;14,95;1156,95
 les Corts;Barri;2019;15,05;1097,24
 la Maternitat i Sant Ramon;Barri;2019;14,45;1009,21
 Pedralbes;Barri;2019;15,69;1860,56
-Sarria - Sant Gervasi;Districte;2019;15,71;1316,57
+Sarrià-Sant Gervasi;Districte;2019;15,71;1316,57
 Vallvidrera el Tibidabo i les Planes;Barri;2019;13,86;1205,65
 Sarria;Barri;2019;16,87;1375,1
 les Tres Torres;Barri;2019;17,05;1657,03
 Sant Gervasi - la Bonanova;Barri;2019;16,04;1304,34
 Sant Gervasi - Galvany;Barri;2019;15,28;1397,27
 el Putxet i el Farro;Barri;2019;15,03;1086,42
-Gracia;Districte;2019;14,63;957,73
+Gràcia;Districte;2019;14,63;957,73
 Vallcarca i els Penitents;Barri;2019;14,04;972,22
 el Coll;Barri;2019;12,72;801,98
 la Salut;Barri;2019;13,15;918,31
-la Vila de Gracia;Barri;2019;15,1;962,95
-el Camp d en Grassot i Gracia Nova;Barri;2019;14,73;983,36
-Horta - Guinardo;Districte;2019;12,71;794,88
+la Vila de Gràcia;Barri;2019;15,1;962,95
+el Camp d en Grassot i Gràcia Nova;Barri;2019;14,73;983,36
+Horta-Guinardó;Districte;2019;12,71;794,88
 el Baix Guinardo;Barri;2019;13,5;882,01
 Can Baro;Barri;2019;13,4;769,06
 el Guinardo;Barri;2019;12,92;819,05
@@ -1668,7 +1668,7 @@ Sant Andreu;Barri;2019;12,47;805,29
 la Sagrera;Barri;2019;12,65;817,35
 el Congres i els Indians;Barri;2019;12,07;793,43
 Navas;Barri;2019;12,43;853,36
-Sant Marti;Districte;2019;13,85;941,71
+Sant Martí;Districte;2019;13,85;941,71
 el Camp de l Arpa del Clot;Barri;2019;13,54;856,0
 el Clot;Barri;2019;13,25;856,54
 el Parc i la Llacuna del Poblenou;Barri;2019;15,02;1014,72
@@ -1677,7 +1677,7 @@ el Poblenou;Barri;2019;15,08;1004,72
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2019;17,26;1372,38
 el Besos i el Maresme;Barri;2019;11,34;738,08
 Provencals del Poblenou;Barri;2019;14,11;982,03
-Sant Marti de Provencals;Barri;2019;11,9;837,58
+Sant Martí de Provencals;Barri;2019;11,9;837,58
 la Verneda i la Pau;Barri;2019;11,48;778,41
 Barcelona;Municipi;2020;13,89;964,81
 Ciutat Vella;Districte;2020;14,34;913,66
@@ -1692,7 +1692,7 @@ la Dreta de l Eixample;Barri;2020;14,16;1273,5
 l Antiga Esquerra de l Eixample;Barri;2020;14,32;1155,78
 la Nova Esquerra de l Eixample;Barri;2020;14,42;1034,15
 Sant Antoni;Barri;2020;13,95;971,88
-Sants Montjuic;Districte;2020;13,64;846,88
+Sants-Montjuïc;Districte;2020;13,64;846,88
 el Poble Sec - AEI Parc Montjuic;Barri;2020;14,26;827,43
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2020;;
 la Marina de Port;Barri;2020;11,15;787,09
@@ -1705,20 +1705,20 @@ Les Corts;Districte;2020;14,67;1112,5
 les Corts;Barri;2020;14,86;1060,71
 la Maternitat i Sant Ramon;Barri;2020;13,97;992,69
 Pedralbes;Barri;2020;15,47;1718,24
-Sarria - Sant Gervasi;Districte;2020;15,59;1305,73
+Sarrià-Sant Gervasi;Districte;2020;15,59;1305,73
 Vallvidrera el Tibidabo i les Planes;Barri;2020;12,47;1233,07
 Sarria;Barri;2020;16,98;1366,24
 les Tres Torres;Barri;2020;16,52;1696,12
 Sant Gervasi - la Bonanova;Barri;2020;15,31;1301,13
 Sant Gervasi - Galvany;Barri;2020;15,32;1362,28
 el Putxet i el Farro;Barri;2020;15,09;1056,08
-Gracia;Districte;2020;14,44;950,36
+Gràcia;Districte;2020;14,44;950,36
 Vallcarca i els Penitents;Barri;2020;14,37;982,49
 el Coll;Barri;2020;12,23;809,27
 la Salut;Barri;2020;13,64;967,26
-la Vila de Gracia;Barri;2020;14,91;953,38
-el Camp d en Grassot i Gracia Nova;Barri;2020;14,08;953,07
-Horta - Guinardo;Districte;2020;12,78;799,32
+la Vila de Gràcia;Barri;2020;14,91;953,38
+el Camp d en Grassot i Gràcia Nova;Barri;2020;14,08;953,07
+Horta-Guinardó;Districte;2020;12,78;799,32
 el Baix Guinardo;Barri;2020;13,76;890,5
 Can Baro;Barri;2020;12,95;787,71
 el Guinardo;Barri;2020;13,2;822,9
@@ -1752,7 +1752,7 @@ Sant Andreu;Barri;2020;12,5;810,03
 la Sagrera;Barri;2020;12,4;783,89
 el Congres i els Indians;Barri;2020;12,52;804,95
 Navas;Barri;2020;12,67;864,07
-Sant Marti;Districte;2020;13,79;929,91
+Sant Martí;Districte;2020;13,79;929,91
 el Camp de l Arpa del Clot;Barri;2020;13,57;862,83
 el Clot;Barri;2020;13,35;872,09
 el Parc i la Llacuna del Poblenou;Barri;2020;14,33;974,32
@@ -1761,7 +1761,7 @@ el Poblenou;Barri;2020;14,92;1002,82
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2020;16,66;1171,57
 el Besos i el Maresme;Barri;2020;11,91;752,38
 Provencals del Poblenou;Barri;2020;13,98;957,52
-Sant Marti de Provencals;Barri;2020;11,78;832,09
+Sant Martí de Provencals;Barri;2020;11,78;832,09
 la Verneda i la Pau;Barri;2020;11,55;771,15
 Barcelona;Municipi;2021;13,21;918,84
 Ciutat Vella;Districte;2021;13,24;846,4
@@ -1776,7 +1776,7 @@ la Dreta de l Eixample;Barri;2021;13,15;1189,22
 l Antiga Esquerra de l Eixample;Barri;2021;13,65;1073,73
 la Nova Esquerra de l Eixample;Barri;2021;13,44;963,14
 Sant Antoni;Barri;2021;12,96;928,49
-Sants Montjuic;Districte;2021;12,97;799,69
+Sants-Montjuïc;Districte;2021;12,97;799,69
 el Poble Sec - AEI Parc Montjuic;Barri;2021;13,62;780,11
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2021;5,9;430,59
 la Marina de Port;Barri;2021;10,71;743,15
@@ -1789,20 +1789,20 @@ Les Corts;Districte;2021;13,84;1054,14
 les Corts;Barri;2021;14,06;1015,0
 la Maternitat i Sant Ramon;Barri;2021;12,98;935,93
 Pedralbes;Barri;2021;15,06;1699,09
-Sarria - Sant Gervasi;Districte;2021;14,86;1246,4
+Sarrià-Sant Gervasi;Districte;2021;14,86;1246,4
 Vallvidrera el Tibidabo i les Planes;Barri;2021;15,33;1236,96
 Sarria;Barri;2021;15,9;1303,06
 les Tres Torres;Barri;2021;15,74;1544,17
 Sant Gervasi - la Bonanova;Barri;2021;15,13;1216,91
 Sant Gervasi - Galvany;Barri;2021;14,53;1355,48
 el Putxet i el Farro;Barri;2021;14,27;1003,63
-Gracia;Districte;2021;13,81;896,35
+Gràcia;Districte;2021;13,81;896,35
 Vallcarca i els Penitents;Barri;2021;13,73;941,49
 el Coll;Barri;2021;12,71;762,6
 la Salut;Barri;2021;12,58;888,46
-la Vila de Gracia;Barri;2021;14,13;900,77
-el Camp d en Grassot i Gracia Nova;Barri;2021;13,73;892,02
-Horta - Guinardo;Districte;2021;12,22;768,82
+la Vila de Gràcia;Barri;2021;14,13;900,77
+el Camp d en Grassot i Gràcia Nova;Barri;2021;13,73;892,02
+Horta-Guinardó;Districte;2021;12,22;768,82
 el Baix Guinardo;Barri;2021;12,64;823,6
 Can Baro;Barri;2021;12,53;756,37
 el Guinardo;Barri;2021;12,6;809,12
@@ -1836,7 +1836,7 @@ Sant Andreu;Barri;2021;11,89;766,65
 la Sagrera;Barri;2021;11,98;768,29
 el Congres i els Indians;Barri;2021;11,68;775,46
 Navas;Barri;2021;11,88;820,3
-Sant Marti;Districte;2021;13,31;888,34
+Sant Martí;Districte;2021;13,31;888,34
 el Camp de l Arpa del Clot;Barri;2021;13,0;820,02
 el Clot;Barri;2021;12,88;825,67
 el Parc i la Llacuna del Poblenou;Barri;2021;14,27;972,12
@@ -1845,7 +1845,7 @@ el Poblenou;Barri;2021;14,33;945,86
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2021;15,66;1045,18
 el Besos i el Maresme;Barri;2021;11,34;710,37
 Provencals del Poblenou;Barri;2021;13,47;949,68
-Sant Marti de Provencals;Barri;2021;11,49;806,82
+Sant Martí de Provencals;Barri;2021;11,49;806,82
 la Verneda i la Pau;Barri;2021;11,07;743,71
 Barcelona;Municipi;2022;14,54;1026,86
 Ciutat Vella;Districte;2022;15,79;1008,35
@@ -1860,7 +1860,7 @@ la Dreta de l Eixample;Barri;2022;15,0;1389,98
 l Antiga Esquerra de l Eixample;Barri;2022;15,2;1201,08
 la Nova Esquerra de l Eixample;Barri;2022;14,95;1069,6
 Sant Antoni;Barri;2022;14,4;1037,98
-Sants Montjuic;Districte;2022;14,08;916,86
+Sants-Montjuïc;Districte;2022;14,08;916,86
 el Poble Sec - AEI Parc Montjuic;Barri;2022;15,23;881,29
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2022;7,19;1456,6
 la Marina de Port;Barri;2022;10,6;723,77
@@ -1873,20 +1873,20 @@ Les Corts;Districte;2022;15,23;1185,71
 les Corts;Barri;2022;15,44;1129,45
 la Maternitat i Sant Ramon;Barri;2022;14,78;1068,72
 Pedralbes;Barri;2022;15,25;1813,9
-Sarria - Sant Gervasi;Districte;2022;16,23;1384,06
+Sarrià-Sant Gervasi;Districte;2022;16,23;1384,06
 Vallvidrera el Tibidabo i les Planes;Barri;2022;13,56;1107,02
 Sarria;Barri;2022;18,19;1431,69
 les Tres Torres;Barri;2022;17,9;1807,02
 Sant Gervasi - la Bonanova;Barri;2022;15,83;1360,14
 Sant Gervasi - Galvany;Barri;2022;15,73;1487,73
 el Putxet i el Farro;Barri;2022;15,82;1115,86
-Gracia;Districte;2022;15,28;999,77
+Gràcia;Districte;2022;15,28;999,77
 Vallcarca i els Penitents;Barri;2022;14,73;1006,76
 el Coll;Barri;2022;12,95;808,04
 la Salut;Barri;2022;13,51;955,49
-la Vila de Gracia;Barri;2022;15,96;1017,11
-el Camp d en Grassot i Gracia Nova;Barri;2022;15,14;1007,49
-Horta - Guinardo;Districte;2022;13,1;819,71
+la Vila de Gràcia;Barri;2022;15,96;1017,11
+el Camp d en Grassot i Gràcia Nova;Barri;2022;15,14;1007,49
+Horta-Guinardó;Districte;2022;13,1;819,71
 el Baix Guinardo;Barri;2022;14,04;911,03
 Can Baro;Barri;2022;13,68;806,36
 el Guinardo;Barri;2022;13,44;847,08
@@ -1920,7 +1920,7 @@ Sant Andreu;Barri;2022;12,65;821,23
 la Sagrera;Barri;2022;12,89;865,53
 el Congres i els Indians;Barri;2022;12,46;830,65
 Navas;Barri;2022;12,65;884,21
-Sant Marti;Districte;2022;14,49;1000,16
+Sant Martí;Districte;2022;14,49;1000,16
 el Camp de l Arpa del Clot;Barri;2022;14,14;894,08
 el Clot;Barri;2022;13,63;904,06
 el Parc i la Llacuna del Poblenou;Barri;2022;15,9;1150,17
@@ -1929,7 +1929,7 @@ el Poblenou;Barri;2022;16,51;1079,91
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2022;17,24;1247,5
 el Besos i el Maresme;Barri;2022;12,13;778,67
 Provencals del Poblenou;Barri;2022;14,54;1024,3
-Sant Marti de Provencals;Barri;2022;12,13;987,55
+Sant Martí de Provencals;Barri;2022;12,13;987,55
 la Verneda i la Pau;Barri;2022;11,42;931,42
 Barcelona;Municipi;2023;16,1;1136,4
 Ciutat Vella;Districte;2023;16,66;1079,01
@@ -1944,7 +1944,7 @@ la Dreta de l Eixample;Barri;2023;16,59;1578,63
 l Antiga Esquerra de l Eixample;Barri;2023;16,75;1352,59
 la Nova Esquerra de l Eixample;Barri;2023;16,68;1177,59
 Sant Antoni;Barri;2023;15,87;1134,06
-Sants Montjuic;Districte;2023;16,33;1032,2
+Sants-Montjuïc;Districte;2023;16,33;1032,2
 el Poble Sec - AEI Parc Montjuic;Barri;2023;16,0;937,28
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2023;13,39;1451,08
 la Marina de Port;Barri;2023;12,58;885,14
@@ -1957,20 +1957,20 @@ Les Corts;Districte;2023;16,77;1294,2
 les Corts;Barri;2023;17,08;1215,76
 la Maternitat i Sant Ramon;Barri;2023;15,76;1190,13
 Pedralbes;Barri;2023;17,48;1952,0
-Sarria - Sant Gervasi;Districte;2023;18,24;1550,79
+Sarrià-Sant Gervasi;Districte;2023;18,24;1550,79
 Vallvidrera el Tibidabo i les Planes;Barri;2023;14,12;1255,94
 Sarria;Barri;2023;19,52;1528,45
 les Tres Torres;Barri;2023;19,42;1955,53
 Sant Gervasi - la Bonanova;Barri;2023;17,82;1507,67
 Sant Gervasi - Galvany;Barri;2023;18,42;1696,01
 el Putxet i el Farro;Barri;2023;17,29;1255,39
-Gracia;Districte;2023;16,88;1117,96
+Gràcia;Districte;2023;16,88;1117,96
 Vallcarca i els Penitents;Barri;2023;16,78;1137,67
 el Coll;Barri;2023;14,42;922,23
 la Salut;Barri;2023;15,34;1090,36
-la Vila de Gracia;Barri;2023;17,48;1125,77
-el Camp d en Grassot i Gracia Nova;Barri;2023;16,69;1138,44
-Horta - Guinardo;Districte;2023;14,48;915,9
+la Vila de Gràcia;Barri;2023;17,48;1125,77
+el Camp d en Grassot i Gràcia Nova;Barri;2023;16,69;1138,44
+Horta-Guinardó;Districte;2023;14,48;915,9
 el Baix Guinardo;Barri;2023;15,48;1028,55
 Can Baro;Barri;2023;14,97;890,02
 el Guinardo;Barri;2023;14,95;964,5
@@ -2004,7 +2004,7 @@ Sant Andreu;Barri;2023;13,96;910,97
 la Sagrera;Barri;2023;14,54;968,21
 el Congres i els Indians;Barri;2023;14,02;924,38
 Navas;Barri;2023;14,45;974,31
-Sant Marti;Districte;2023;16,18;1101,75
+Sant Martí;Districte;2023;16,18;1101,75
 el Camp de l Arpa del Clot;Barri;2023;15,76;982,48
 el Clot;Barri;2023;15,4;1031,8
 el Parc i la Llacuna del Poblenou;Barri;2023;17,25;1238,07
@@ -2013,7 +2013,7 @@ el Poblenou;Barri;2023;17,78;1172,83
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2023;18,81;1325,18
 el Besos i el Maresme;Barri;2023;12,49;779,66
 Provencals del Poblenou;Barri;2023;16,35;1161,24
-Sant Marti de Provencals;Barri;2023;13,54;974,24
+Sant Martí de Provencals;Barri;2023;13,54;974,24
 la Verneda i la Pau;Barri;2023;16,3;1064,23
 Barcelona;Municipi;2024;16,2;1156,22
 Ciutat Vella;Districte;2024;16,69;1071,96
@@ -2028,7 +2028,7 @@ la Dreta de l Eixample;Barri;2024;16,65;1575,96
 l Antiga Esquerra de l Eixample;Barri;2024;17,07;1378,19
 la Nova Esquerra de l Eixample;Barri;2024;16,91;1227,66
 Sant Antoni;Barri;2024;16,41;1142,62
-Sants Montjuic;Districte;2024;15,65;982,14
+Sants-Montjuïc;Districte;2024;15,65;982,14
 el Poble Sec - AEI Parc Montjuic;Barri;2024;16,58;968,73
 la Marina del Prat Vermell - AEI Zona Franca;Barri;2024;8,1;694,7
 la Marina de Port;Barri;2024;11,98;840,86
@@ -2041,20 +2041,20 @@ Les Corts;Districte;2024;17,58;1370,36
 les Corts;Barri;2024;17,52;1286,13
 la Maternitat i Sant Ramon;Barri;2024;16,83;1190,57
 Pedralbes;Barri;2024;19,4;2138,53
-Sarria - Sant Gervasi;Districte;2024;18,34;1624,23
+Sarrià-Sant Gervasi;Districte;2024;18,34;1624,23
 Vallvidrera el Tibidabo i les Planes;Barri;2024;15,79;1442,22
 Sarria;Barri;2024;18,99;1559,77
 les Tres Torres;Barri;2024;19,68;2049,26
 Sant Gervasi - la Bonanova;Barri;2024;17,88;1704,18
 Sant Gervasi - Galvany;Barri;2024;18,88;1744,21
 el Putxet i el Farro;Barri;2024;17,11;1288,31
-Gracia;Districte;2024;17,61;1162,82
+Gràcia;Districte;2024;17,61;1162,82
 Vallcarca i els Penitents;Barri;2024;17,89;1193,76
 el Coll;Barri;2024;14,81;931,44
 la Salut;Barri;2024;16,43;1136,36
-la Vila de Gracia;Barri;2024;17,96;1166,35
-el Camp d en Grassot i Gracia Nova;Barri;2024;17,71;1199,27
-Horta - Guinardo;Districte;2024;14,58;930,44
+la Vila de Gràcia;Barri;2024;17,96;1166,35
+el Camp d en Grassot i Gràcia Nova;Barri;2024;17,71;1199,27
+Horta-Guinardó;Districte;2024;14,58;930,44
 el Baix Guinardo;Barri;2024;15,73;1020,41
 Can Baro;Barri;2024;15,92;927,56
 el Guinardo;Barri;2024;15,02;976,08
@@ -2088,7 +2088,7 @@ Sant Andreu;Barri;2024;13,92;927,45
 la Sagrera;Barri;2024;14,4;1010,49
 el Congres i els Indians;Barri;2024;14,58;937,41
 Navas;Barri;2024;14,34;1001,82
-Sant Marti;Districte;2024;16,37;1105,57
+Sant Martí;Districte;2024;16,37;1105,57
 el Camp de l Arpa del Clot;Barri;2024;15,7;993,39
 el Clot;Barri;2024;15,65;1037,93
 el Parc i la Llacuna del Poblenou;Barri;2024;16,9;1188,52
@@ -2097,5 +2097,5 @@ el Poblenou;Barri;2024;18,49;1229,92
 Diagonal Mar i el Front Maritim del Poblenou;Barri;2024;19,33;1327,34
 el Besos i el Maresme;Barri;2024;14,12;879,25
 Provencals del Poblenou;Barri;2024;16,34;1162,69
-Sant Marti de Provencals;Barri;2024;14,2;989,06
+Sant Martí de Provencals;Barri;2024;14,2;989,06
 la Verneda i la Pau;Barri;2024;14,64;998,17

@@ -1,6 +1,7 @@
 # Ignore data directory
 data_raw/
-pkl_files/
+# Ignore model file (too heavy for GitHub)
+model_catalunya.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

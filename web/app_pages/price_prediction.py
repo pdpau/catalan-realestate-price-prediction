@@ -30,6 +30,38 @@ def load_label_encoders():
 
 
 def app():
+    # Apply styles
+    st.markdown(
+        """
+        <style>
+        .st-emotion-cache-1rsyhoq p { /* Preu predicció */
+            font-size: 40px !important;
+            font-weight: 700;
+            text-align: center;
+            color: #FF4B4B;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+            padding: 0.5rem;
+            margin: 1rem 0;
+            letter-spacing: 0.5px;
+            animation: fadeInScale 0.3s ease-out;
+        }
+        @keyframes fadeInScale {
+            from {
+                opacity: 0;
+                transform: scale(0.95);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+
+    
     data = load_data()
     data = data.drop(columns=['price/m2', 'region']) # Eliminem les columnes 'price/m2' i 'region' perquè no les utilitzem en la predicció
 

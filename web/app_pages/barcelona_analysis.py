@@ -84,7 +84,7 @@ def plot_rent_forecast(forecast_rent, rent_data, forecast_rent_bcn, barcelona_re
     plt.scatter(rent_data['ds'], rent_data['y'], color='blue', marker='o', label='Lloguer històric (Barri)')
     plt.plot(forecast_rent_bcn['ds'], forecast_rent_bcn['yhat'], label='Predicció Lloguer (Barcelona)', color='red', linestyle='--')
     plt.scatter(barcelona_rent_data['ds'], barcelona_rent_data['y'], color='red', marker='o', label='Preu històric (Barcelona)')
-    plt.ylabel('Total Rent Price (€)')
+    plt.ylabel('Preu lloguer (€)')
     plt.xlabel('Year')
     plt.title(title)
     plt.legend()
@@ -98,7 +98,7 @@ def plot_rent_forecast2(forecast_rent, rent_data, forecast_rent_bcn, barcelona_r
     plt.scatter(rent_data['ds'], rent_data['y'], color='blue', marker='o', label='Lloguer històric (Barri)')
     plt.plot(forecast_rent_bcn['ds'], forecast_rent_bcn['yhat'], label='Predicció Lloguer (Barcelona)', color='red', linestyle='--')
     plt.scatter(barcelona_rent_data['ds'], barcelona_rent_data['y'], color='red', marker='o', label='Preu històric (Barcelona)')
-    plt.ylabel('Total Rent Price (€)')
+    plt.ylabel('Preu lloguer (€)')
     plt.xlabel('Year')
     plt.title(title)
     plt.legend()
@@ -113,7 +113,7 @@ def plot_sale_forecast(forecast_sale, sale_data, forecast_sale_bcn, barcelona_sa
     plt.scatter(sale_data['ds'], sale_data['y'], color='green', marker='o', label='Lloguer històric (Barri)')
     plt.plot(forecast_sale_bcn['ds'], forecast_sale_bcn['yhat'], label='Predicció Compravenda (Barcelona)', color='orange', linestyle='--')
     plt.scatter(barcelona_sale_data['ds'], barcelona_sale_data['y'], color='orange', marker='o', label='Preu històric (Barcelona)')
-    plt.ylabel('Total Sale Price (€)')
+    plt.ylabel('Preu compravenda (€)')
     plt.xlabel('Year')
     plt.title(title)
     plt.ticklabel_format(style='plain', axis='y')
@@ -122,6 +122,46 @@ def plot_sale_forecast(forecast_sale, sale_data, forecast_sale_bcn, barcelona_sa
     plt.xlim(pd.Timestamp('2013-01-01'), forecast_sale['ds'].max())
     plt.ylim(bottom=40000)
     st.pyplot(plt)
+
+
+def plot_forecast_dual_y(forecast_rent, rent_data, forecast_sale, sale_data, title, tipus_territori):
+    fig, ax1 = plt.subplots(figsize=(10, 4))
+    
+    # Plot rent data on left y-axis
+    ax1.set_xlabel('Any')
+    ax1.set_ylabel('Preu Lloguer (€)', color='purple')
+    ax1.plot(forecast_rent['ds'], forecast_rent['yhat'], color='purple', label='Predicció Lloguer')
+    ax1.tick_params(axis='y', labelcolor='purple')
+    ax1.set_ylim(bottom=200)
+    
+    # Create second y-axis and plot sale data
+    ax2 = ax1.twinx()
+    ax2.set_ylabel('Preu Compravenda (€)', color='orange')
+    ax2.plot(forecast_sale['ds'], forecast_sale['yhat'], color='orange', label='Predicció Compravenda')
+    ax2.tick_params(axis='y', labelcolor='orange')
+    
+    # Add title and format
+    plt.title(title)
+    plt.ticklabel_format(style='plain', axis='y')
+    plt.grid(True)
+    
+    # Set x-axis limits based on territory type
+    if tipus_territori == 'Barri':
+        plt.xlim(pd.Timestamp('2012-01-01'), forecast_rent['ds'].max())
+    else:
+        plt.xlim(pd.Timestamp('2000-01-01'), forecast_rent['ds'].max())
+    
+    # Add combined legend
+    lines1, labels1 = ax1.get_legend_handles_labels()
+    lines2, labels2 = ax2.get_legend_handles_labels()
+    ax1.legend(lines1 + lines2, labels1 + labels2, loc='upper left')
+    
+    # Format y-axis numbers
+    ax1.ticklabel_format(style='plain', axis='y')
+    ax2.ticklabel_format(style='plain', axis='y')
+    
+    st.pyplot(fig)
+
 
 def app():
     st.title('Anàlisi del Mercat de Barcelona i Predicció de Preus Futurs')
@@ -228,6 +268,23 @@ def app():
         plot_sale_forecast(forecast_sale, district_sale_data, forecast_sale_bcn, barcelona_sale_data, 
                         f'Predicció de preu de compravenda per {filterrent_territori}')
         
+        
+        # Comparison plot
+        st.subheader("Comparació Prediccions Lloguer vs Compravenda")
+        
+        tipus_territori = lloguer_df[lloguer_df['Territori'] == filterrent_territori]['Tipus de territori'].iloc[0]
+        
+        if len(district_rent_data.dropna()) >= 2 and len(district_sale_data.dropna()) >= 2:
+            plot_forecast_dual_y(
+                forecast_rent, 
+                district_rent_data,
+                forecast_sale, 
+                district_sale_data,
+                f'Predicció de Preus de Lloguer vs Compravenda per {filterrent_territori}',
+                tipus_territori
+            )
+        else:
+            st.write(f"No hi ha prou dades per fer prediccions per {filterrent_territori}")
     with tab4:
         st.header('Rentabilitat Anual')
         

@@ -51,7 +51,7 @@ def prepare_data(df, column):
     df['ds'] = pd.to_datetime(df['ds'], format='%Y')
     return df
 
-def train_and_predict(df, periods, freq='YE'):
+def train_and_predict(df, periods, freq='Y'):
     model = Prophet()
     model.fit(df)
     future = model.make_future_dataframe(periods=periods, freq=freq)

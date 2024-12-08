@@ -125,6 +125,7 @@ def plot_sale_forecast(forecast_sale, sale_data, forecast_sale_bcn, barcelona_sa
 
 def app():
     st.title('Anàlisi del Mercat de Barcelona i Predicció de Preus Futurs')
+    
 
     tab1, tab2, tab3, tab4 = st.tabs(['Anàlisi de Compravenda', 'Anàlisi de Lloguers', 'Predicció de Preus Futurs', 'Renatabilitat Anual'])
 
@@ -147,7 +148,7 @@ def app():
 
         st.subheader("Evolució del Preu de Compravenda per Districte")
         plot_evolution(compraventa_district_df, 'total_sale_price', 'Evolució del Preu de Compravenda per Districte')
-
+    
         st.write("Explora les dades de compravenda per a Barcelona.")
         st.subheader("Taula de Dades Filtrable de Compravenda")
         filter_territori = st.selectbox('Barri/Districte', compraventa['Territori'].unique())
@@ -160,7 +161,7 @@ def app():
             (compraventa['Territori'] == filter_territori) &
             (compraventa['year'] == filter_year)
             ]
-            st.write(filtered_data)
+        st.write(filtered_data)
 
         district_sale_df = compraventa[compraventa['Territori'] == filter_territori]
         plot_evolution(district_sale_df, 'total_sale_price', f'Predicció de preu de compravenda per {filter_territori}')
@@ -187,6 +188,7 @@ def app():
         district_rent_df = lloguer_df[lloguer_df['Territori'] == filterrent_territori]
         district_rent_data = prepare_data(district_rent_df, 'total_rent_price')
         model_rent, forecast_rent = train_and_predict(district_rent_data, periods=10)
+        '''
         if lloguer_df[lloguer_df['Territori'] == filterrent_territori]['Tipus de territori'].iloc[0] in ['Districte', 'Municipi']:
             plot_forecast(model_rent, forecast_rent, f'Predicció de preu de lloguer per {filterrent_territori}')
             plot_rent_forecast(forecast_rent, district_rent_data, forecast_rent_bcn, barcelona_rent_data, f'Predicció de preu de lloguer per {filterrent_territori}')
@@ -194,20 +196,38 @@ def app():
         else:
             plot_forecast2(model_rent, forecast_rent, f'Predicció de preu de lloguer per {filterrent_territori}')
             plot_rent_forecast2(forecast_rent, district_rent_data, forecast_rent_bcn, barcelona_rent_data, f'Predicció de preu de lloguer per {filterrent_territori}')
-
+        '''
+        #plot_evolution(model_rent, 'total_rent_price', f'Predicció de preu de lloguer per {filterrent_territori}')
+        plot_evolution(district_rent_df, 'total_rent_price', f'Predicció de preu de lloguer per {filterrent_territori}')
 
     with tab3:
         st.header('Predicció de Preus Futurs')
+        
+        # Territory selection for both rent and sale predictions
         filterrent_territori = st.selectbox('Barri/Districte', lloguer_df['Territori'].unique(), key='rent')
+        
+        # Rent prediction
+        st.subheader("Predicció de Preus de Lloguer")
         district_rent_df = lloguer_df[lloguer_df['Territori'] == filterrent_territori]
         district_rent_data = prepare_data(district_rent_df, 'total_rent_price')
         model_rent, forecast_rent = train_and_predict(district_rent_data, periods=10)
-        #plot_rent_forecast(forecast_rent, district_rent_data, forecast_rent_bcn, barcelona_rent_data, f'Predicció de preu de lloguer per {filterrent_territori}')
+        
         if lloguer_df[lloguer_df['Territori'] == filterrent_territori]['Tipus de territori'].iloc[0] in ['Districte', 'Municipi']:
-            plot_rent_forecast(forecast_rent, district_rent_data, forecast_rent_bcn, barcelona_rent_data, f'Predicció de preu de lloguer per {filterrent_territori}')
+            plot_rent_forecast(forecast_rent, district_rent_data, forecast_rent_bcn, barcelona_rent_data, 
+                            f'Predicció de preu de lloguer per {filterrent_territori}')
         else:
-            plot_rent_forecast2(forecast_rent, district_rent_data, forecast_rent_bcn, barcelona_rent_data, f'Predicció de preu de lloguer per {filterrent_territori}')
+            plot_rent_forecast2(forecast_rent, district_rent_data, forecast_rent_bcn, barcelona_rent_data, 
+                            f'Predicció de preu de lloguer per {filterrent_territori}')
 
+        # Sale prediction
+        st.subheader("Predicció de Preus de Compravenda")
+        district_sale_df = compraventa[compraventa['Territori'] == filterrent_territori]
+        district_sale_data = prepare_data(district_sale_df, 'total_sale_price')
+        model_sale, forecast_sale = train_and_predict(district_sale_data, periods=10)
+        
+        plot_sale_forecast(forecast_sale, district_sale_data, forecast_sale_bcn, barcelona_sale_data, 
+                        f'Predicció de preu de compravenda per {filterrent_territori}')
+        
     with tab4:
         st.header('Rentabilitat Anual')
         
@@ -237,14 +257,68 @@ def app():
         plot_annual_rentability(merged_df, 'Rendibilitat per Districte')
 
         # Add data table with rentability
-        st.subheader("Taula de Rendibilitat per Districte")
+        st.subheader("Taula de Rendibilitat de 2024 per Districte")
         latest_year = merged_df['year'].max()
         latest_rentability = merged_df[merged_df['year'] == latest_year][['Territori', 'annual_rentability']]
         latest_rentability = latest_rentability.sort_values('annual_rentability', ascending=False)
         latest_rentability.columns = ['Districte', 'Rendibilitat Anual (%)']
         latest_rentability['Rendibilitat Anual (%)'] = latest_rentability['Rendibilitat Anual (%)'].round(2)
-        st.write(latest_rentability)
 
+        # Add years to return calculation for current data
+        latest_rentability['Anys Retorn'] = (100 / latest_rentability['Rendibilitat Anual (%)']).round(1)
+
+        # Display current year results
+        st.write(latest_rentability)
+        # Add ranking of districts by years to return investment
+        st.subheader("Taula de Rendibilitat per Temps de Retorn d'Inversió a 10 anys vista")
+        
+        district_metrics = []
+        
+        for district in merged_df['Territori'].unique():
+            district_df = merged_df[merged_df['Territori'] == district]
+            district_data = prepare_data(district_df, 'annual_rentability')
+            
+            if len(district_data.dropna()) >= 2:
+                model, forecast = train_and_predict(district_data, periods=10)
+                future_rentability = forecast['yhat'].iloc[-1]
+                years_to_return = 100 / future_rentability
+                district_metrics.append({
+                    'Districte': district,
+                    'Rendibilitat Prevista (%)': future_rentability,
+                    'Anys Retorn': years_to_return
+                })
+        
+        # Convert to DataFrame and sort
+        metrics_df = pd.DataFrame(district_metrics)
+        metrics_df = metrics_df.sort_values('Anys Retorn')
+        metrics_df['Rendibilitat Prevista (%)'] = metrics_df['Rendibilitat Prevista (%)'].round(2)
+        metrics_df['Anys Retorn'] = metrics_df['Anys Retorn'].round(1)
+        
+        # Display results
+        st.write(metrics_df)
+        
+        # Highlight best district
+        best_district = metrics_df.iloc[0]
+        st.write(f"\n💡 El districte amb menor temps de retorn és **{best_district['Districte']}** "
+                f"amb {best_district['Anys Retorn']} anys "
+                f"(rendibilitat prevista: {best_district['Rendibilitat Prevista (%)']}%)")  
+
+        # Calculate current average years to return
+        current_avg_years = latest_rentability['Anys Retorn'].mean()
+
+        # Calculate future average years to return
+        future_avg_years = metrics_df['Anys Retorn'].mean()
+
+        # Calculate difference in months
+        difference_months = (future_avg_years - current_avg_years) * 12
+
+        if difference_months > 0:
+            st.write(f"\n📈 D'aquí 10 anys, de mitjana, els anys de retorn d'inversió seran {abs(difference_months):.1f} mesos més que l'any actual")
+        else:
+            st.write(f"\n📉 D'aquí 10 anys, de mitjana, els anys de retorn d'inversió seran {abs(difference_months):.1f} mesos menys que l'any actual")
+
+        st.write(f"(Mitjana actual: {current_avg_years:.1f} anys, Mitjana prevista: {future_avg_years:.1f} anys)")
+        
         # Add predictive plot for selected district
         st.subheader("Predicció de Rendibilitat")
         selected_district = st.selectbox('Selecciona Districte', merged_df['Territori'].unique())
@@ -255,7 +329,7 @@ def app():
             district_data = prepare_data(district_df, 'annual_rentability')
             
             if len(district_data.dropna()) >= 2:
-                model, forecast = train_and_predict(district_data, periods=20)  # 20 periods for future prediction
+                model, forecast = train_and_predict(district_data, periods=10) 
                 
                 # Plot historical data
                 plt.scatter(district_data['ds'], district_data['y'], color='blue', label='Dades històriques')
@@ -294,8 +368,7 @@ def app():
 
         plot_district_forecast(merged_df, selected_district, f'Predicció de Rendibilitat per {selected_district}')
 
-        
-
+       
 
 if __name__ == '__main__':
     app()

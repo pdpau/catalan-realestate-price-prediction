@@ -204,7 +204,7 @@ def app():
         st.write(filtered_data)
 
         district_sale_df = compraventa[compraventa['Territori'] == filter_territori]
-        plot_evolution(district_sale_df, 'total_sale_price', f'Predicció de preu de compravenda per {filter_territori}')
+        plot_evolution(district_sale_df, 'total_sale_price', f'Evolució del preu de compravenda per {filter_territori}')
 
     with tab2:
         st.header('Anàlisi de Lloguers')
@@ -238,7 +238,7 @@ def app():
             plot_rent_forecast2(forecast_rent, district_rent_data, forecast_rent_bcn, barcelona_rent_data, f'Predicció de preu de lloguer per {filterrent_territori}')
         '''
         #plot_evolution(model_rent, 'total_rent_price', f'Predicció de preu de lloguer per {filterrent_territori}')
-        plot_evolution(district_rent_df, 'total_rent_price', f'Predicció de preu de lloguer per {filterrent_territori}')
+        plot_evolution(district_rent_df, 'total_rent_price', f'Evolució del preu de lloguer per {filterrent_territori}')
 
     with tab3:
         st.header('Predicció de Preus Futurs')
